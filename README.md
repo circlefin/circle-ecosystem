@@ -26,7 +26,8 @@ circle-ecosystem
 ### YAML Template
 ```yaml
 ---
-# 1 app per yaml
+# One app per yaml file
+
 companyName: [String]     # Required. Name of the company.
 appName: [String]         # Required. Name of the app.
 products: [List]          # Required. List of all applicable Circle products.
