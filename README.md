@@ -37,7 +37,7 @@ description: [String]     # Required. Description of the app. Limit 200 characte
 audience:                 # Required. The intended audience(s) of the app.
   - Consumers
   - Businesses
-fiatOnRamp: [boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
+fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
 blockchain:               # Required. List of all applicable blockchains that the app supports.
   - Ethereum
   - Polygon
@@ -80,9 +80,9 @@ region:                   # Required. List of all applicable regions that the ap
   - LATAM
   - EMEA
   - APAC
-twitter: [String]       # Optional. Twitter handle.
-telegram: [String]      # Optional. Telegram handle.
-discord: [String]       # Optional. Discord channel.
+twitter: [String]         # Optional. Twitter handle.
+telegram: [String]        # Optional. Telegram handle.
+discord: [String]         # Optional. Discord channel.
 ```
 
 ### YAML Example (coinbaseWallet.yml)
