@@ -3,8 +3,19 @@
 The goal of this repository is to track the ecosystem of decentralized or centralized applications that
 leverage Circle's products across any supported blockchains.
 
-To contribute to this catalog, propose a PR including your application and logo by following the templates
-below:
+To contribute to this catalog, please propose a PR with the following files by following the templates below:
+
+1. An image of your app / company logo
+2. A yaml file with the requested information about your app.
+
+### Logo Constraints
+Logos should conform to the following parameters:
+
+- Acceptable File Types: .jpg, .png, .svg
+- Image Size: 200 x 200 pixels
+- Aspect Ratio: 1:1 (square)
+
+Note: Each app does not need its own logo. Logos may be reused by multiple apps under the same company / org.
 
 ### Directory Structure
 ```
@@ -23,11 +34,10 @@ circle-ecosystem
         └───logos
               coinbaseWallet.jpg
 ```
+
 ### YAML Template
 ```yaml
 ---
-# One app per yaml file
-
 companyName: [String]     # Required. Name of the company.
 appName: [String]         # Required. Name of the app.
 products: [List]          # Required. List of all applicable Circle products.
@@ -130,11 +140,3 @@ region:
   - APAC
 twitter: "https://twitter.com/coinbase"
 ```
-
-### Logo Constraints
-Logos should conform to the following parameters:
-- Acceptable File Types: .jpg, .png, .svg
-- Image Size: 200 x 200 pixels
-- Aspect Ratio: 1:1 (square)
-
-Note: Each app does not need its own logo.
