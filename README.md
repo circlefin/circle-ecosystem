@@ -26,6 +26,7 @@ circle-ecosystem
 ### YAML Template
 ```yaml
 ---
+# 1 app per yaml
 companyName: [String]     # Required. Name of the company.
 appName: [String]         # Required. Name of the app.
 products: [List]          # Required. List of all applicable Circle products.
@@ -34,10 +35,11 @@ products: [List]          # Required. List of all applicable Circle products.
 logo: [String]            # Required. Name of the logo file.
 url: [String]             # Required. URL of the app's website.
 description: [String]     # Required. Description of the app. Limit 200 characters.
+entityType: [String]      # Required. Type of organization that runs the app. Choose either "dao" or "non-dao" (traditional company).
+fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
 audience:                 # Required. The intended audience(s) of the app.
   - Consumers
   - Businesses
-fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
 blockchain:               # Required. List of all applicable blockchains that the app supports.
   - Ethereum
   - Polygon
@@ -70,7 +72,6 @@ category:                 # Required. List of all the applicable use cases.
   - Restaurants
   - Remittances
   - Payroll
-entityType: [String]      # Required. Type of organization that runs the app. Choose either "dao" or "non-dao" (traditional company).
 platform:                 # Required. List of all applicable platforms that the app supports.
   - Web
   - iOS
