@@ -1,0 +1,9 @@
+# This is the yamllint configuration file
+# For more information on how to configure this file please see:
+# https://yamllint.readthedocs.io/en/stable/configuration.html
+
+extends: default
+
+rules:
+  # Ignore: line too long  (> 80 characters)
+  line-length: disable
