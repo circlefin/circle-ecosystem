@@ -40,7 +40,7 @@ circle-ecosystem
 ---
 companyName: [String]     # Required. Name of the company.
 appName: [String]         # Required. Name of the app.
-circleProduct: [List]          # Required. List of all applicable Circle products.
+circleProduct: [List]     # Required. List of all applicable Circle products.
   - USDC
   - Verite
 logo: [String]            # Required. Name of the logo file.
