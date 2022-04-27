@@ -1,7 +1,7 @@
 # Circle Ecosystem Catalog
 
 The goal of this repository is to track the ecosystem of decentralized or centralized applications that
-leverage Circle products across any supported blockchains.
+leverage Circle's products across any supported blockchains.
 
 To contribute to this catalog, propose a PR including your application and logo by following the templates
 below:
