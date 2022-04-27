@@ -40,7 +40,7 @@ circle-ecosystem
 ---
 companyName: [String]     # Required. Name of the company.
 appName: [String]         # Required. Name of the app.
-products: [List]          # Required. List of all applicable Circle products.
+circleProduct: [List]          # Required. List of all applicable Circle products.
   - USDC
   - Verite
 logo: [String]            # Required. Name of the logo file.
@@ -102,7 +102,7 @@ discord: [String]         # Optional. Discord server.
 ---
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
-products:
+circleProduct:
   - USDC
   - Verite
 logo: "coinbase.jpg"
