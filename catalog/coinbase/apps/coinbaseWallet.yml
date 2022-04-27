@@ -9,7 +9,7 @@ url: "https://www.coinbase.com/wallet"
 description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
 audience:
   - Consumers
-fiatOnRamp: True
+fiatOnRamp: true
 blockchain:
   - Ethereum
   - Polygon
