@@ -6,7 +6,7 @@ leverage Circle's products across any supported blockchains.
 To contribute to this catalog, please propose a PR with the following files by following the templates below:
 
 1. An image of your app / company logo
-2. A yaml file with the requested information about your app.
+2. A yaml file with the requested information about your app (one app per yaml file)
 
 ### Logo Constraints
 Logos should conform to the following parameters:
@@ -94,7 +94,7 @@ region:                   # Required. List of all applicable regions that the ap
   - APAC
 twitter: [String]         # Optional. Twitter handle.
 telegram: [String]        # Optional. Telegram handle.
-discord: [String]         # Optional. Discord channel.
+discord: [String]         # Optional. Discord server.
 ```
 
 ### YAML Example (coinbaseWallet.yml)
