@@ -21,15 +21,15 @@ Note: Each app does not need its own logo. Logos may be reused by multiple apps 
 ```
 circle-ecosystem
 └───catalog
-    └───companyName
-    │   └───apps
+    ├───companyName
+    │   ├───apps
     │   │     appName.yml
     │   │     ...
     │   └───logos
     │         logoName.jpg
     │         ...
     └───coinbase # example
-        └───apps
+        ├───apps
         │     coinbaseWallet.yml
         └───logos
               coinbaseWallet.jpg
