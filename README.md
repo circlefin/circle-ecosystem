@@ -51,7 +51,7 @@ fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g.
 audience:                 # Required. The intended audience(s) of the app.
   - Consumers
   - Businesses
-blockchain:               # Required. List of all applicable blockchains that the app supports.
+blockchain: [List]        # Required. List of all applicable blockchains that the app supports.
   - Ethereum
   - Polygon
   - Solana
@@ -66,7 +66,7 @@ blockchain:               # Required. List of all applicable blockchains that th
   - NEAR
   - Polkadot
   - Cosmos
-category:                 # Required. List of all the applicable use cases.
+category: [List]          # Required. List of all the applicable use cases.
   - eCommerce
   - Trading/Exchanges
   - NFT Marketplaces
@@ -83,11 +83,11 @@ category:                 # Required. List of all the applicable use cases.
   - Restaurants
   - Remittances
   - Payroll
-platform:                 # Required. List of all applicable platforms that the app supports.
+platform: [List]          # Required. List of all applicable platforms that the app supports.
   - Web
   - iOS
   - Android
-region:                   # Required. List of all applicable regions that the app operates in.
+region: [List]            # Required. List of all applicable regions that the app operates in.
   - NA
   - LATAM
   - EMEA
