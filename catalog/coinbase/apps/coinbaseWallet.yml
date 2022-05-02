@@ -5,7 +5,7 @@ circleProduct:
   - USDC
   - Verite
 logo: "coinbase.jpg"
-url: "https://www.coinbase.com/wallet"
+website: "https://www.coinbase.com/wallet"
 description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
 audience:
   - Consumers

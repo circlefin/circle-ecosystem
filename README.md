@@ -44,7 +44,7 @@ circleProduct: [List]     # Required. List of all applicable Circle products.
   - USDC
   - Verite
 logo: [String]            # Required. Name of the logo file.
-url: [String]             # Required. URL of the app's website.
+website: [String]         # Required. URL of the app's website.
 description: [String]     # Required. Description of the app. Limit 200 characters.
 entityType: [String]      # Required. Type of organization that runs the app. Choose either "dao" or "non-dao" (traditional company).
 fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
@@ -106,7 +106,7 @@ circleProduct:
   - USDC
   - Verite
 logo: "coinbase.jpg"
-url: "https://www.coinbase.com/wallet"
+website: "https://www.coinbase.com/wallet"
 description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
 audience:
   - Consumers
