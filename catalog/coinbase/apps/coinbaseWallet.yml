@@ -1,40 +1,40 @@
 ---
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
-circleProduct:
-  - USDC
-  - Verite
-logo: "coinbase.jpg"
+circleProducts:
+  - usdc
+  - verite
+logo: "catalog/coinbase/logos/coinbase.png"
 website: "https://www.coinbase.com/wallet"
 description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
-audience:
-  - Consumers
+dao: false
 fiatOnRamp: true
-blockchain:
-  - Ethereum
-  - Polygon
-  - Solana
-  - Avalanche
-  - Stellar
-  - Algorand
-  - Flow
-  - TRON
-  - Hedera
-  - Fantom
-  - Harmony
-  - NEAR
-  - Polkadot
-  - Cosmos
-category:
-  - Wallets
-entityType: "non-dao"
-platform:
-  - Web
-  - iOS
-  - Android
-region:
-  - NA
-  - LATAM
-  - EMEA
-  - APAC
+audiences:
+  - consumers
+blockchains:
+  - ethereum
+  - polygon
+  - solana
+  - avalanche
+  - stellar
+  - algorand
+  - flow
+  - tron
+  - hedera
+  - fantom
+  - harmony
+  - near
+  - polkadot
+  - cosmos
+categories:
+  - wallets
+platforms:
+  - web
+  - ios
+  - android
+regions:
+  - na
+  - latam
+  - emea
+  - apac
 twitter: "https://twitter.com/coinbase"
