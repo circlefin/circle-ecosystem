@@ -39,12 +39,17 @@ circle-ecosystem
 ```yaml
 # Copyright 2022 Circle Internet Financial Trading Company Limited
 ---
+$schema: "http://json-schema.org/2020-12/schema#"
+$id: "https://tbd.com/ecosystem.schema.json"
+
 title: Circle Ecosystem Catalog YAML Schema
 
 maintainers:
   - Thomas Low <thomas.low@circle.com>
 
 description: The YAML schema reference for Circle Ecosystem Catalog.
+
+type: object
 
 properties:
   companyName:
@@ -192,11 +197,6 @@ required:
   - categories
   - platforms
   - regions
-
-optional:
-  - twitter
-  - telegram
-  - discord
 ```
 
 ### YAML Example (coinbaseWallet.yml)
