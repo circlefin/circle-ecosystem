@@ -7,7 +7,7 @@ title: Circle Ecosystem Catalog YAML Schema
 
 maintainers:
   - Thomas Low <thomas.low@circle.com>
-  -
+
 description: The YAML schema reference for Circle Ecosystem Catalog.
 
 type: object
