@@ -62,8 +62,8 @@ properties:
     type: string
     maxLength: 50
 
-  circleProducts:
-    description: Array of all applicable Circle products.
+  products:
+    description: Array of all applicable products.
     type: array
     items:
       type: string
@@ -186,7 +186,7 @@ properties:
 required:
   - companyName
   - appName
-  - circleProducts
+  - products
   - logo
   - website
   - description
@@ -204,7 +204,7 @@ required:
 ---
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
-circleProducts:
+products:
   - usdc
   - verite
 logo: "catalog/coinbase/logos/coinbase.png"

@@ -1,7 +1,7 @@
 ---
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
-circleProducts:
+products:
   - usdc
   - verite
 logo: "catalog/coinbase/logos/coinbase.png"
