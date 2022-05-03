@@ -1,7 +1,7 @@
 # Circle Ecosystem Catalog
 
-The goal of this repository is to track the ecosystem of decentralized or centralized applications that
-leverage Circle/Centre products across any supported blockchains.
+The goal of this repository is to track the ecosystem of applications that build on top of platforms
+such as USDC across any supported blockchains.
 
 To contribute to this catalog, please propose a PR with the following files by following the templates below:
 
