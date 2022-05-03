@@ -1,7 +1,7 @@
 # Circle Ecosystem Catalog
 
 The goal of this repository is to track the ecosystem of decentralized or centralized applications that
-leverage Circle's products across any supported blockchains.
+leverage Circle/Centre products across any supported blockchains.
 
 To contribute to this catalog, please propose a PR with the following files by following the templates below:
 
@@ -47,7 +47,7 @@ title: Circle Ecosystem Catalog YAML Schema
 maintainers:
   - Thomas Low <thomas.low@circle.com>
 
-description: The YAML schema reference for Circle Ecosystem Catalog.
+description: The YAML schema reference for the Circle Ecosystem Catalog.
 
 type: object
 
