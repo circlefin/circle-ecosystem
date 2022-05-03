@@ -38,20 +38,20 @@ circle-ecosystem
 ### YAML Template
 ```yaml
 ---
-companyName: [String]     # Required. Name of the company.
-appName: [String]         # Required. Name of the app.
-circleProduct: [List]     # Required. List of all applicable Circle products.
+companyName: [String]     # Required. Name of the company. Limit 50 characters.
+appName: [String]         # Required. Name of the app. Limit 50 characters.
+circleProducts: [List]    # Required. List of all applicable Circle products.
   - USDC
   - Verite
 logo: [String]            # Required. Name of the logo file.
-website: [String]         # Required. URL of the app's website.
+website: [String]         # Required. URL of the app's website. Limit 50 characters.
 description: [String]     # Required. Description of the app. Limit 200 characters.
 entityType: [String]      # Required. Type of organization that runs the app. Choose either "dao" or "non-dao" (traditional company).
 fiatOnRamp: [Boolean]     # Required. The ability to convert fiat currency (e.g. USD) to USDC within the app.
-audience:                 # Required. The intended audience(s) of the app.
+audiences: [List]         # Required. List of all intended audiences of the app.
   - Consumers
   - Businesses
-blockchain: [List]        # Required. List of all applicable blockchains that the app supports.
+blockchains: [List]       # Required. List of all applicable blockchains that the app supports.
   - Ethereum
   - Polygon
   - Solana
@@ -66,7 +66,7 @@ blockchain: [List]        # Required. List of all applicable blockchains that th
   - NEAR
   - Polkadot
   - Cosmos
-category: [List]          # Required. List of all the applicable use cases.
+categories: [List]        # Required. List of all the applicable use cases.
   - eCommerce
   - Trading/Exchanges
   - NFT Marketplaces
@@ -83,18 +83,18 @@ category: [List]          # Required. List of all the applicable use cases.
   - Restaurants
   - Remittances
   - Payroll
-platform: [List]          # Required. List of all applicable platforms that the app supports.
+platforms: [List]         # Required. List of all applicable platforms that the app supports.
   - Web
   - iOS
   - Android
-region: [List]            # Required. List of all applicable regions that the app operates in.
+regions: [List]           # Required. List of all applicable regions that the app operates in.
   - NA
   - LATAM
   - EMEA
   - APAC
-twitter: [String]         # Optional. Twitter handle.
-telegram: [String]        # Optional. Telegram handle.
-discord: [String]         # Optional. Discord server.
+twitter: [String]         # Optional. Twitter handle. Limit 50 characters.
+telegram: [String]        # Optional. Telegram handle. Limit 50 characters.
+discord: [String]         # Optional. Discord server. Limit 50 characters.
 ```
 
 ### YAML Example (coinbaseWallet.yml)
