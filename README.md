@@ -39,8 +39,8 @@ circle-ecosystem
 ```yaml
 # Copyright 2022 Circle Internet Financial Trading Company Limited
 ---
-$schema: "http://json-schema.org/2020-12/schema#"
-$id: "https://tbd.com/ecosystem.schema.json"
+$id: https://tbd.com/ecosystem.schema.json
+$schema: http://json-schema.org/2020-12/schema#
 
 title: Circle Ecosystem Catalog YAML Schema
 
