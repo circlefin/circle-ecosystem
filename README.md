@@ -17,6 +17,21 @@ Logos should conform to the following parameters:
 
 Note: Each app does not need its own logo. Logos may be reused by multiple apps under the same company / org.
 
+### UUID Generation
+Please generate a UUID v4 for each app in their respective yaml file.
+
+On Mac OS X:
+```shell
+uuidgen | awk '{print tolower($0)}'
+```
+
+On Linux:
+```shell
+uuidgen
+```
+
+You may also use an online tool to generate a UUID. (https://uuidonline.com/)
+
 ### Directory Structure
 ```
 circle-ecosystem
@@ -52,6 +67,11 @@ description: The YAML schema reference for the Circle Ecosystem Catalog.
 type: object
 
 properties:
+  id:
+    description: UUID of the app.
+    type: string
+    maxLength: 36
+
   companyName:
     description: Name of the company.
     type: string
@@ -184,6 +204,7 @@ properties:
     maxLength: 50
 
 required:
+  - id
   - companyName
   - appName
   - products
@@ -202,6 +223,7 @@ required:
 ### YAML Example (coinbaseWallet.yml)
 ```yaml
 ---
+id: "27d0cea3-d1d2-423e-b9a7-b849eaf79ac3"
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
 products:
