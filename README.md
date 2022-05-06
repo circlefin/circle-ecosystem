@@ -129,20 +129,20 @@ properties:
     items:
       type: string
       enum:
-        - ethereum
-        - polygon
-        - solana
-        - avalanche
-        - stellar
         - algorand
-        - flow
-        - tron
-        - hedera
+        - avalanche
+        - cosmos
+        - ethereum
         - fantom
+        - flow
         - harmony
+        - hedera
         - near
         - polkadot
-        - cosmos
+        - polygon
+        - solana
+        - stellar
+        - tron
 
   categories:
     description: Array of all the applicable use cases.
@@ -237,20 +237,20 @@ fiatOnRamp: true
 audiences:
   - consumers
 blockchains:
-  - ethereum
-  - polygon
-  - solana
-  - avalanche
-  - stellar
   - algorand
-  - flow
-  - tron
-  - hedera
+  - avalanche
+  - cosmos
+  - ethereum
   - fantom
+  - flow
   - harmony
+  - hedera
   - near
   - polkadot
-  - cosmos
+  - polygon
+  - solana
+  - stellar
+  - tron
 categories:
   - wallets
 platforms:
