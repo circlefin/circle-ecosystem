@@ -13,6 +13,11 @@ description: The YAML schema reference for Circle Ecosystem Catalog.
 type: object
 
 properties:
+  id:
+    description: UUID of the app.
+    type: string
+    maxLength: 36
+
   companyName:
     description: Name of the company.
     type: string
@@ -145,6 +150,7 @@ properties:
     maxLength: 50
 
 required:
+  - id
   - companyName
   - appName
   - products
