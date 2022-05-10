@@ -18,7 +18,7 @@ Logos should conform to the following parameters:
 Note: Each app does not need its own logo. Logos may be reused by multiple apps under the same company / org.
 
 ### UUID Generation
-For each app's yaml file, please generate a UUID v4.
+For each app, please generate a UUID v4.
 
 On Mac OS X:
 ```shell
