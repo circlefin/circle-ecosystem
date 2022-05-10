@@ -150,22 +150,22 @@ properties:
     items:
       type: string
       enum:
-        - ecommerce
-        - trading_exchanges
-        - nft_marketplaces
-        - cefi
-        - defi
-        - investing_yield
-        - borrowing_lending
-        - wallets
-        - debit_cards
-        - gaming
-        - charity
         - banking
+        - borrowing_lending
+        - cefi
+        - charity
+        - debit_cards
+        - defi
+        - ecommerce
         - entertainment
-        - restaurants
-        - remittances
+        - gaming
+        - investing_yield
+        - nft_marketplaces
         - payroll
+        - remittances
+        - restaurants
+        - trading_exchanges
+        - wallets
 
   platforms:
     description: Array of all applicable platforms that the app supports.
