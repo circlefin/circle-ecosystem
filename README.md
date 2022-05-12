@@ -211,6 +211,13 @@ required:
   - logo
   - website
   - description
+  - dao
+  - fiatOnRamp
+  - audiences
+  - blockchains
+  - categories
+  - platforms
+  - regions
 ```
 
 ### YAML Example (coinbaseWallet.yml)
