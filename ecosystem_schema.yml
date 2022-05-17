@@ -28,15 +28,6 @@ properties:
     type: string
     maxLength: 50
 
-  products:
-    description: Array of all applicable products.
-    type: array
-    items:
-      type: string
-      enum:
-        - usdc
-        - verite
-
   logo:
     description: Directory path to the logo file.
     type: string
@@ -153,7 +144,6 @@ required:
   - id
   - companyName
   - appName
-  - products
   - logo
   - website
   - description

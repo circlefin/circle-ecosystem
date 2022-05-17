@@ -82,15 +82,6 @@ properties:
     type: string
     maxLength: 50
 
-  products:
-    description: Array of all applicable products.
-    type: array
-    items:
-      type: string
-      enum:
-        - usdc
-        - verite
-
   logo:
     description: Directory path to the logo file.
     type: string
@@ -207,7 +198,6 @@ required:
   - id
   - companyName
   - appName
-  - products
   - logo
   - website
   - description
@@ -226,9 +216,6 @@ required:
 id: "27d0cea3-d1d2-423e-b9a7-b849eaf79ac3"
 companyName: "Coinbase"
 appName: "Coinbase Wallet"
-products:
-  - usdc
-  - verite
 logo: "catalog/coinbase/logos/coinbase.png"
 website: "https://www.coinbase.com/wallet"
 description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
