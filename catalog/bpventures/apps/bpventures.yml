@@ -1,0 +1,20 @@
+id: "f3dc5fb5-a2e3-4e45-9542-2e6e2423b3d2"
+companyName: "BP Ventures"
+appName: "BP Ventures"
+logo: "catalog/bpventures/logos/bpv-logo.svg"
+website: "https://bpventures.us/"
+fiatOnRamp: false
+description: "One click integration into USDC for MSBs, Banks, Telcos and other Fintechs"
+audiences:
+  - businesses
+categories:
+  - remittances
+  - banking
+blockchains:
+  - ethereum
+  - stellar
+regions:
+  - na
+  - latam
+  - emea
+  - apac
