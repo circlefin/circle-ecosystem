@@ -1,0 +1,28 @@
+---
+id: "e9010566-2319-400a-b5a4-e3eec6acc2f6"
+companyName: "BetSwirl"
+appName: "BetSwirl "
+logo: "catalog/BetSwirl/logos/BetSwirl.png"
+website: "https://www.betswirl.com"
+description: "BetSwirl aims to be THE decentralized gambling platform: provably fair, non-custodial, licensed, trustless and community driven."
+dao: true
+fiatOnRamp: false
+audiences:
+  - consumers
+  - businesses
+blockchains:
+  - avalanche
+  - polygon
+categories:
+  - defi
+  - gaming
+  - entertainment
+platforms:
+  - web
+regions:
+  - na
+  - latam
+  - emea
+  - apac
+twitter: "https://twitter.com/betswirl"
+telegram: "https://t.me/betswirl"
