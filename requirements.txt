@@ -1,2 +1,4 @@
 jsonschema
+pillow
 pyyaml
+svgpathtools
