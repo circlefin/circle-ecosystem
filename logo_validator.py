@@ -53,7 +53,7 @@ def validate_logo(logo_path: str) -> None:
     # 2. Check the file size
     size = os.path.getsize(logo_path)
     if size > IMAGE_SIZE:
-        raise ValidationError(f'Invalid file size {(size / (1024 * 1024)):.2f} MB')
+        raise ValidationError(f'Invalid file size {(size / (1024 * 1024)):.2f} MB.')
 
     # 3. Check the image size and ratio
     if file_ext == '.svg':
