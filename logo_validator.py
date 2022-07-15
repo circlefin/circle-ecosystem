@@ -48,23 +48,23 @@ def validate_logo(logo_path: str) -> None:
     file_ext_index = logo_path.rfind('.')
     file_ext = logo_path[file_ext_index:]
     if file_ext not in ACCEPTABLE_FILE_EXTENSIONS:
-        raise ValidationError(f'Invalid file type {file_ext}.')
+        raise ValidationError(f'Invalid file type {file_ext} for {logo_path}.')
 
     # 2. Check the file size
     size = os.path.getsize(logo_path)
     if size > IMAGE_SIZE:
-        raise ValidationError(f'Invalid file size {(size / (1024 * 1024)):.2f} MB.')
+        raise ValidationError(f'Invalid file size {(size / (1024 * 1024)):.2f} MB for {logo_path}.')
 
     # 3. Check the image size and ratio
     if file_ext == '.svg':
         _, __, svg_attributes = svg2paths2(logo_path)
-        width, height = svg_attributes['width'], svg_attributes['height']
+        width, height = int(svg_attributes['width']), int(svg_attributes['height'])
     else:
         im = Image.open(logo_path)
         width, height = im.size
 
     if width != 200 or height != 200:
-        raise ValidationError(f'Invalid image size {width}x{height}.')
+        raise ValidationError(f'Invalid image size {width}x{height} for {logo_path}.')
 
 
 def main():
