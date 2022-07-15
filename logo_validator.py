@@ -28,20 +28,20 @@ IMAGE_SIZE = 5 * 1024 * 1024
 
 
 class ValidationError(Exception):
-    """Exception raises for invalid logos."""
+    """Exception raised for invalid logos."""
     pass
 
 
-def validate_logos(logo_path: str) -> None:
+def validate_logo(logo_path: str) -> None:
     """
-    Validate logos to ensure they follow the following requirements:
+    Validate a logo to ensure it follows the following requirements:
         1. Acceptable File Types: .jpg, .png, .svg
         2. Max File Size: 5 MB
         2. Image Size: 200 x 200 pixels
         3. Aspect Ratio: 1:1 (square)
 
     :param logo_path: path of the logo
-    :return: boolean whether logo passes requirements
+    :return: boolean whether the logo passes requirements
     """
 
     # 1. Check the file type
@@ -74,7 +74,7 @@ def main():
     pass_count = 0
     for logo_path in logos:
         try:
-            validate_logos(logo_path)
+            validate_logo(logo_path)
             pass_count += 1
         except ValidationError as e:
             LOGGER.error(e)
