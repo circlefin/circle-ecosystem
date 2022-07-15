@@ -1,0 +1,21 @@
+id: "27c00b37-7a0a-4a6a-abd6-7f9ebe28179b"
+companyName: "Atomic Private Limited"
+appName: "AtomicDEX"
+logo: "catalog/atomicDEX/logos/atomicDEX.svg"
+website: "https://atomicdex.io/"
+description: "AtomicDEX is a secure wallet and non-custodial decentralized exchange rolled into one application. Store your coins, trade P2P with minimal fees and never give up control over your digital assets."
+audiences:
+  - consumers
+  - businesses
+blockchains:
+  - ethereum
+categories:
+  - defi
+  - trading_exchanges
+  - wallets
+platforms:
+  - ios
+  - android
+
+twitter: "https://twitter.com/AtomicDEX"
+discord: "https://discord.gg/3rzDPAr"
