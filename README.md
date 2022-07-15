@@ -211,7 +211,7 @@ properties:
     type: string
     minLength: 19
     maxLength: 50
-    pattern: "^https://discord.gg/.+"
+    pattern: "^https://discord.com/.+"
 
 required:
   - id
