@@ -264,8 +264,9 @@ regions:
 twitter: "https://twitter.com/coinbase"
 ```
 
-## Linting
+## Linting & Validation
 ```shell
 $ pip install -r requirements.txt
 $ python linter.py
+$ python logo_validator.py
 ```
