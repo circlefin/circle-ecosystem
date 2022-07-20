@@ -1,0 +1,9 @@
+id: "5d13e36b-28f5-403d-bd24-b544edf6d64c"
+companyName: "SWFT Blockchain"
+appName: "SWFT Allchain Bridge"
+logo: "catalog/circle/logos/swft.png"
+website: "https://www.allchainbridge.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges

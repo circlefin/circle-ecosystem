@@ -1,0 +1,10 @@
+id: "f1077378-d2e4-4bf9-95b8-3b6bf5efbd2f"
+companyName: "SWFT Blockchain"
+appName: "SWFT"
+logo: "catalog/circle/logos/swft.png"
+website: "https://www.swft.pro/"
+fiatOnRamp: false
+categories:
+  - cefi
+  - trading_exchanges
+  - wallets
