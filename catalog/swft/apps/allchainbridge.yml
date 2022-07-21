@@ -3,6 +3,7 @@ companyName: "SWFT Blockchain"
 appName: "SWFT Allchain Bridge"
 logo: "catalog/circle/logos/swft.png"
 website: "https://www.allchainbridge.com/"
+description: "Bridgers is a decentralized cross-chain bridge."
 fiatOnRamp: false
 categories:
   - defi

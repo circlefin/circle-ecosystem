@@ -3,6 +3,7 @@ companyName: "SWFT Blockchain"
 appName: "SWFT"
 logo: "catalog/circle/logos/swft.png"
 website: "https://www.swft.pro/"
+description: "SWFT is a cross-chain swap aggregator for DEX/CEX/NFT."
 fiatOnRamp: false
 categories:
   - cefi
