@@ -1,0 +1,37 @@
+---
+id: "ab3024aa-1592-42f1-a6a7-d6f51f90b8bc"
+companyName: "XDEFI Wallet Technologies"
+appName: "XDEFI Wallet"
+logo: "catalog/xdefi/logos/xdefi.png"
+website: "https://www.xdefi.io"
+description: "One wallet for all your crypto. Store, send and receive digital assets, including NFTs with XDEFI Wallet."
+dao: false
+fiatOnRamp: true
+audiences:
+  - consumers
+blockchains:
+  - bitcoin
+  - ethereum
+  - litecoin
+  - bitcoin cash
+  - bnb Chain
+  - avalanche
+  - fantom
+  - polygon
+  - Arbitrum
+  - THORChain
+  - terra Classic
+  - terra 2.0
+  - dogecoin
+categories:
+  - wallets
+platforms:
+  - web
+regions:
+  - na
+  - latam
+  - emea
+  - apac
+twitter: "https://twitter.com/xdefi_wallet"
+telegram: "https://t.me/xdefi_announcements"
+discord: "https://discord.com/invite/xdefiwallet"
