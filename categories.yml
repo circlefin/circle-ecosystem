@@ -1,0 +1,49 @@
+categories:
+ - category_id: 1
+   category_name: BANKING
+   category_param_name: banking
+ - category_id: 2
+   category_name: BORROWING/LENDING
+   category_param_name: borrowing_lending
+ - category_id: 3
+   category_name: CEFI
+   category_param_name: cefi
+ - category_id: 4
+   category_name: CHARITY
+   category_param_name: charity
+ - category_id: 5
+   category_name: DEBIT/CARDS
+   category_param_name: debit_cards
+ - category_id: 6
+   category_name: DEFI
+   category_param_name: defi
+ - category_id: 7
+   category_name: ECOMMERCE
+   category_param_name: ecommerce
+ - category_id: 8
+   category_name: ENTERTAINMENT
+   category_param_name: entertainment
+ - category_id: 9
+   category_name: GAMING
+   category_param_name: gaming
+ - category_id: 10
+   category_name: INVESTING/YIELD
+   category_param_name: investing_yield
+ - category_id: 11
+   category_name: NFT MARKETPLACES
+   category_param_name: nft_marketplaces
+ - category_id: 12
+   category_name: PAYROLL
+   category_param_name: payroll
+ - category_id: 13
+   category_name: REMITTANCES
+   category_param_name: remittances
+ - category_id: 14
+   category_name: RESTAURANTS
+   category_param_name: restaurants
+ - category_id: 15
+   category_name: TRADING/EXCHANGES
+   category_param_name: trading_exchanges
+ - category_id: 16
+   category_name: WALLETS
+   category_param_name: wallets
