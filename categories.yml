@@ -11,9 +11,6 @@ categories:
  - categoryID: 40093187-13c3-4b7c-8dcd-b6f7c71533ca
    categoryName: CHARITY
    categoryParamName: charity
- - categoryID: f3d208c8-dde4-4bb3-8197-51466c33d99e
-   categoryName: DEBIT/CARDS
-   categoryParamName: debit_cards
  - categoryID: dc4ba24a-c114-45c1-b315-2c475e8646c4
    categoryName: DEFI
    categoryParamName: defi
@@ -38,9 +35,6 @@ categories:
  - categoryID: 6cecff79-8409-4826-82e4-790c895e3f2d
    categoryName: REMITTANCES
    categoryParamName: remittances
- - categoryID: 5458beea-876d-457e-a750-ff541bbdabfe
-   categoryName: RESTAURANTS
-   categoryParamName: restaurants
  - categoryID: ad855201-648f-48b7-8e39-8847d04bbb54
    categoryName: TRADING/EXCHANGES
    categoryParamName: trading_exchanges
