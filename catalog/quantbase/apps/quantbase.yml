@@ -6,3 +6,5 @@ website: "https://www.getquantbase.com/"
 fiatOnRamp: false
 categories:
   - cefi
+description: Quantbase offers investing in index funds, crypto, NFTs, and more. It
+  is the only SEC-registered robo-advisor for data-backed strategies and indexes.

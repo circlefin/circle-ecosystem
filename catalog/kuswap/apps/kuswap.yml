@@ -6,3 +6,5 @@ website: "https://kuswap.io/#/"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: 'KuSwap is a decentralized exchange on KuCoin Community Chain (KCC).
+  Swap, lend, farm, add liquidity to your tokens on KCC, and much more. '

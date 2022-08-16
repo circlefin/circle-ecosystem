@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Solidly allows low cost, near 0 slippage trades on uncorrelated or tightly
+  correlated assets built on Fantom. It incentivizes fees over liquidity.

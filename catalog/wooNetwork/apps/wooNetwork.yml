@@ -6,3 +6,5 @@ website: "https://woo.org/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: WOO Network is a deep liquidity network connecting traders, exchanges,
+  institutions, and DeFi platforms.

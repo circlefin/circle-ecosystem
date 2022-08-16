@@ -6,3 +6,5 @@ website: "https://www.anchorage.com/services/trading"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: Anchorage is a digital asset platform offering insitutions easy and efficient
+  access to custody, trading, and financing services.

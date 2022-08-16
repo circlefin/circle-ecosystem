@@ -6,3 +6,5 @@ website: "https://idle.finance/#/"
 fiatOnRamp: false
 categories:
   - defi
+description: Idle Finance is a yield automation protocol that offers first-rate yield
+  optimization and risk tranching strategies.

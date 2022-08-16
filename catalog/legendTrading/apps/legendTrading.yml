@@ -6,3 +6,5 @@ website: "https://legendtrading.com/"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: Legend Trading is a cryptocurrency OTC desk that offers deep liquidity
+  and competitive quotes for counterparties to execute large orders.

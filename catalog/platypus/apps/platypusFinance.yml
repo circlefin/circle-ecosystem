@@ -6,3 +6,5 @@ website: "https://www.platypus.finance/"
 fiatOnRamp: false
 categories:
   - defi
+description: Platypus is an open-liquidity, single-sided AMM on Avalanche that manages
+  risk based on coverage ratios, allowing maximal cxapital efficiency.

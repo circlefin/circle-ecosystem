@@ -6,3 +6,5 @@ website: "https://vowcurrency.com/"
 fiatOnRamp: false
 categories:
   - ecommerce
+description: Built on Ethereum, VOW is a ground-breaking “Decentralized Backstop”
+  that promises to break the monopoly of centralized currency issuance.

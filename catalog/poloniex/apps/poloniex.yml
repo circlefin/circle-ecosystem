@@ -6,3 +6,5 @@ website: "https://poloniex.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Poloniex is a crypto exchange offering over100 BTC markets for trading.
+  It provides customers with secure trading and advanced data analysis tools.

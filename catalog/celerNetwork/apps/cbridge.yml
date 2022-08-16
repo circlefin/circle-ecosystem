@@ -6,3 +6,5 @@ website: "https://cbridge.celer.network/"
 fiatOnRamp: false
 categories:
   - defi
+description: Celer Network is a technology and economic architecture enabling high
+  scalability of public blockchains with off-chain scaling approaches.

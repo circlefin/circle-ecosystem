@@ -6,3 +6,5 @@ website: "https://www.kucoin.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: KuCoin is a global crypto exchange for numerous digital assets and cryptocurrencies.
+  It has over 8 million registered users across 207 countries.

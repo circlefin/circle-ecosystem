@@ -6,3 +6,5 @@ website: "https://gateway.optimism.io/"
 fiatOnRamp: false
 categories:
   - defi
+description: Optimism is an Ethereum-based decentralized infrastructure platform allowing
+  instant transactions and scalable smart contracts.

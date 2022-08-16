@@ -6,3 +6,5 @@ website: "https://phantom.app/"
 fiatOnRamp: true
 categories:
   - wallets
+description: Phantom is a digital wallet reimagined for DeFi and NFTs. Phantom makes
+  it easy for you to store, send, receive, stake, and swap tokens on Solana.

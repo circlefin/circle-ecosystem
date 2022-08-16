@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Zeroswap is a multichain-compatible decentralised exchange aggregator
+  protocol focused on making zero-fee transactions possible.

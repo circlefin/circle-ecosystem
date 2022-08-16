@@ -6,3 +6,5 @@ website: "https://spaceswap.app/"
 fiatOnRamp: false
 categories:
   - defi
+description: SpaceSwap is an aggregator that aims to unite the most popular DeFi protocols
+  in a one-stop station. It invented Shadow Staking technology

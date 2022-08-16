@@ -6,3 +6,5 @@ website: "https://www.btcex.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: BTCEX is a digital asset trading platform that provides spot and derivative
+  trading, such as margin, quarterly and perpetual contracts, and options.

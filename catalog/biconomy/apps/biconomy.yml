@@ -6,3 +6,5 @@ website: "https://www.biconomy.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Biconomy is a relayer infrastructure network and transaction highway
+  that reduces friction between apps built on blockchain.

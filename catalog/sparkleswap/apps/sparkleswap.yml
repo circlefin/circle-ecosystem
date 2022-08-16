@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - investing_yield
+description: The first app to let you buy BTC with USD into a Lightning Network wallet,
+  Sparkleswap is a decentralized market making protocol powered by Uniswap.

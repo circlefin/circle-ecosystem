@@ -6,3 +6,5 @@ website: "https://gnosis-safe.io/"
 fiatOnRamp: false
 categories:
   - wallets
+description: Gnosis Safe is a trusted platform for managing digital assets on the
+  Ethereum blockchain. It offers a multi-signature smart contract wallet.

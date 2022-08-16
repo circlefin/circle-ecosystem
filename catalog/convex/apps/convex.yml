@@ -6,3 +6,5 @@ website: "https://www.convexfinance.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: Convex is a platform that boosts rewards for CRV stakers and liquidity
+  providers through a simple and user-friendly interface.

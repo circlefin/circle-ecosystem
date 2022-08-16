@@ -6,3 +6,5 @@ website: "https://www.curios.com/"
 fiatOnRamp: false
 categories:
   - nft_marketplaces
+description: API and backend tools that make it easy for any business to transact
+  on the blockchain and in the metaverse.

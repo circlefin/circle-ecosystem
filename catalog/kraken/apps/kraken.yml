@@ -6,3 +6,5 @@ website: "https://www.kraken.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Kraken is a crypto exchange providing spot and futures trading between
+  BTC, ETH and 40+ other digital assets.

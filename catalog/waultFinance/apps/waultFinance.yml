@@ -6,3 +6,5 @@ website: "https://wault.finance/"
 fiatOnRamp: false
 categories:
   - defi
+description: Wault Finance is a decentralized finance protocol. Wault Finance is cross-chain
+  and supports the Binance Smart Chain and Polygon ecosystems.

@@ -6,3 +6,5 @@ website: "https://app.multichain.org/"
 fiatOnRamp: false
 categories:
   - defi
+description: Multichain is a cross-chain router protocol; an infrustructure for multi-chain
+  ecosystem, envisioned to become the ultimate router for Web3.

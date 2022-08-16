@@ -6,3 +6,5 @@ website: "https://bitturk.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: BitTurk allows users to buy, sell, deposit, and withdraw cryptocurrencies.
+  It provides both a cryptocurrency exchange and blockchain-based software.

@@ -6,3 +6,5 @@ website: "https://www.randlabs.io/"
 fiatOnRamp: false
 categories:
   - cefi
+description: Rand Labs is a blockchain development lab specialized in Algorand technology.
+  It is focused on building blockchain based products and infrastructure.

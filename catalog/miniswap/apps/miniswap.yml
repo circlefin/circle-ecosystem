@@ -7,3 +7,5 @@ fiatOnRamp: true
 categories:
   - defi
   - trading_exchanges
+description: Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens
+  with minimal cost, minimal time and maximal convenience.

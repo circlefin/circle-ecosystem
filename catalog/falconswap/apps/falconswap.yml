@@ -6,3 +6,5 @@ website: "https://app.falconswap.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: 'FalconSwap is a low gas protocol for decentralized token swaps and token
+  pools with 2-3x lower gas fees. '

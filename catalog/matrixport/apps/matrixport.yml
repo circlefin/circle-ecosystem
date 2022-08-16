@@ -6,3 +6,5 @@ website: "https://invest.matrixport.com/en"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Matrixport is a digital asset financial platform where users can invest,
+  trade, and leverage crypto. It has $10b in assets in management and custody.

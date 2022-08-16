@@ -6,3 +6,5 @@ website: "https://allbridge.io/"
 fiatOnRamp: false
 categories:
   - defi
+description: Allbridge is a digital asset cross-chain transfer bridge that connects
+  EVM, non-EVM, and L2-compatible blockchains.

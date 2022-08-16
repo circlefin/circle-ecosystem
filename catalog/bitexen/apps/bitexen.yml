@@ -6,3 +6,5 @@ website: "https://www.bitexen.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Bitexen is a Turkish crypto exchange which has an API and easy-to-use
+  interface both on web, iOS and Android. It offers a reliable trading platform.

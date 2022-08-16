@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Tokenlon solves liquidity by aggregating multiple liquidity sources,
+  including professional market makers off-chain and AMMs on-chain.

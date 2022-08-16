@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - borrowing_lending
   - defi
+description: Yearn is an aggregator service for decentralized finance investors, using
+  automation to allow them to maximize profits from yield farming.

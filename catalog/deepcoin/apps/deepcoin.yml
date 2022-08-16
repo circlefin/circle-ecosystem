@@ -6,3 +6,5 @@ website: "https://www.deepcoin.com/"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: Deepcoin is a crypto derivative trading platform supporting leveraged
+  trading with Perpetual and CFD contracts, investment opportunities, and more.

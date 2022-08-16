@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Backed Finance is creating tokenized stocks. Each token is backed 1:1
+  to an asset. All underlying assets are helo by 3rd-party licensed custodians.

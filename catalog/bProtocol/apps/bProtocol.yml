@@ -6,3 +6,5 @@ website: "https://www.bprotocol.org/"
 fiatOnRamp: false
 categories:
   - defi
+description: B.Protocol offers a Backstop DeFi primitive, unlocking higher capital
+  efficiency. By democratizing liquidation they shift MEV and to the community.

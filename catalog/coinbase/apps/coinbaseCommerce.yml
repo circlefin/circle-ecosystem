@@ -6,3 +6,5 @@ website: "https://commerce.coinbase.com/"
 fiatOnRamp: true
 categories:
   - remittances
+description: Coinbase allows merchants, consumers, and traders to transact with digital
+  currency. Users can create wallets and buy or sell crypto on its exchange.

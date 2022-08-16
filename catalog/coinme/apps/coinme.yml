@@ -6,3 +6,5 @@ website: "https://coinme.com/"
 fiatOnRamp: true
 categories:
   - remittances
+description: Coinme operates the largest licensed cryptocurrency cash exchange in
+  the U.S. Founded in 2014, it powers thousands of physical locations in 48 states.

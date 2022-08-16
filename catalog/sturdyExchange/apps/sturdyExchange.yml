@@ -6,3 +6,5 @@ website: "https://sturdy.exchange/"
 fiatOnRamp: false
 categories:
   - nft_marketplaces
+description: Sturdy Exchange is a platform that provides a curated NFT experience
+  for collectors.

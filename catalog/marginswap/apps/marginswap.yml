@@ -6,3 +6,5 @@ website: "https://marginswap.net/"
 fiatOnRamp: false
 categories:
   - defi
+description: Marginswap is a decentralised trading protocol that natively supports
+  spot and cross-margin swapping of assets on AMMs like Uniswap and SushiSwap.

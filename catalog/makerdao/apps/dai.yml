@@ -6,3 +6,5 @@ website: "https://makerdao.com/en/"
 fiatOnRamp: false
 categories:
   - defi
+description: Maker is a DAO on Ethereum seeking to minimize price volatility for its
+  own stablecoin (the Dai) against IMF’s international currency basket SDR.

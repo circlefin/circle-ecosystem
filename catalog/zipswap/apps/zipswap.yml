@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Zipswap is a gas-efficient, optimistic rollup native swap. Based on a
+  modified UniswapV2 codebase, it provides low fees on optimistic rollups.

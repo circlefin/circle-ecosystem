@@ -7,3 +7,5 @@ fiatOnRamp: true
 categories:
   - remittances
   - wallets
+description: TRiBL combines messaging and payments to connect groups across the Diaspora.
+  It powers frictionless exchange of digital goods, art, and currencies.

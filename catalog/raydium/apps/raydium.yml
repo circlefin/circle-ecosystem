@@ -8,3 +8,5 @@ categories:
   - defi
   - trading_exchanges
   - investing_yield
+description: Raydium is an AMM on Solana that leverages Serum's central order book
+  to enable fast trades, shared liquidity and new features for earning yield.

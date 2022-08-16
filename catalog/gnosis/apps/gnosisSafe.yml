@@ -7,3 +7,5 @@ dao: true
 fiatOnRamp: false
 categories:
   - defi
+description: In 2020, Gnosis announced to fully decentralize into a DAO. Today, the
+  GnosisDAO treasury has control of over 150K ETH and 8 Million GNO tokens.

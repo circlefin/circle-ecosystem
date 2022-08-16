@@ -6,3 +6,5 @@ website: "https://bridge.harmony.one"
 fiatOnRamp: false
 categories:
   - defi
+description: Harmony is a fast and open blockchain for decentralized applications.
+  Its protocol has achieved secure and random state sharding.

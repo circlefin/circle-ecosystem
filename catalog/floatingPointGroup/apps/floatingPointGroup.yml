@@ -6,3 +6,5 @@ website: "https://www.floating.group/"
 fiatOnRamp: true
 categories:
   - cefi
+description: Floating Point Group is a MIT-born startup drastically simplifying the
+  backend operations to deploy crypto-centric strategies at a meaningful scale.

@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: 1inch is a DEX aggregator that pulls prices across a range of DEXs. The
+  synergy of 1inch protocols enables lucrative, fast and protected operations.

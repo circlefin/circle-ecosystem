@@ -6,3 +6,5 @@ website: "https://revofi.com/revos/"
 fiatOnRamp: true
 categories:
   - remittances
+description: RevoFi provides decentralized infrastructure operated by users. Earn
+  Revos by providing network coverage and sharing computing, storage, and more.

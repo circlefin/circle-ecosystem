@@ -6,3 +6,5 @@ website: "https://nexo.io/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Nexo is a leading financial institution for digital assets. It enables
+  users to buy, earn yield on, and borrow against or swap between pairs.

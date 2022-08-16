@@ -6,3 +6,5 @@ website: "https://portalbridge.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: Wormhole is a decentralized, universal message-passing protocol that
+  connects to multiple blockchains. It allows different blockchains to communicate.

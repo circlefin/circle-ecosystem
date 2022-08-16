@@ -6,3 +6,5 @@ website: "https://www.sorbet.finance/"
 fiatOnRamp: false
 categories:
   - defi
+description: Sorbet Finance is a place where you can place limit orders on Uniswap.
+  DeFi's sweetest automated trading and liquidity management application.

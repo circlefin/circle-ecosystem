@@ -6,3 +6,5 @@ website: "https://ramp.network/"
 fiatOnRamp: true
 categories:
   - remittances
+description: Ramp connects blockchain with banks using open APIs. Its goal is to mesh
+  the connection between the open blockchain and the closed banking system.

@@ -6,3 +6,5 @@ website: "https://www.moneygram.com/"
 fiatOnRamp: true
 categories:
   - remittances
+description: MoneyGram is a global payment services company. Its products include
+  global money transfers, bill payment solutions, and financial paper products.

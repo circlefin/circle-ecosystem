@@ -6,3 +6,5 @@ website: "https://www.b2bx.exchange/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: B2BX Exchange is a crypto exchange which offers crypto-to-crypto and
+  crypto-to-fiat trading pairs. B2BX caters to both individual and corporate users.

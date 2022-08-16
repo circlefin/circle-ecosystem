@@ -6,3 +6,5 @@ website: "https://wallet.myalgo.com"
 fiatOnRamp: true
 categories:
   - wallets
+description: Algorand addresses blockchain scaling challenges with rapid user consensus,
+  enabling small transactions, regardless of volume or number of users.

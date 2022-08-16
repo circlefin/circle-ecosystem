@@ -6,3 +6,5 @@ website: "https://www.airtm.com/en/"
 fiatOnRamp: true
 categories:
   - remittances
+description: Airtm is an e-wallet connected to over 300 bank and e-money systems via
+  a P2P network and bank connections.

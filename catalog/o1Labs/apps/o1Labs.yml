@@ -6,3 +6,5 @@ website: "https://o1labs.org/"
 fiatOnRamp: false
 categories:
   - cefi
+description: O(1) Labs is a global and remote company that incubated the Mina Protocol.
+  Its team operates on the cutting edge of Web3 and zero-knowledge-proofs.

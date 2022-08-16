@@ -6,3 +6,5 @@ website: "https://pangolin.exchange/"
 fiatOnRamp: false
 categories:
   - defi
+description: Pangolin is a community-driven DEX for Avalanche and Ethereum assets
+  with fast settlement, low transaction fees, and a democratic distribution.

@@ -6,3 +6,5 @@ website: "https://collateralswap.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: Collateral Swap allows you to instanty swap the collateral of your vault.
+  It requires connection to an Ethereum wallet or Ethereum-compatible browser.

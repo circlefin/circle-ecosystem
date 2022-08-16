@@ -6,3 +6,5 @@ website: "https://www.tribal.credit/"
 fiatOnRamp: false
 categories:
   - banking
+description: Tribal is a payments and financing platform using emerging technologies
+  to provide SMBs in emerging markets better access to financial services.

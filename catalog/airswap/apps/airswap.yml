@@ -7,3 +7,5 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: AirSwap is a decentralized P2P trading network powered by Ethereum. It
+  protects traders from counterparty risk, slippage, and front running.
