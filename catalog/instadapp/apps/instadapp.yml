@@ -6,3 +6,4 @@ website: "https://instadapp.io/"
 fiatOnRamp: false
 categories:
   - defi
+description: Instadapp is a DeFi middleware for seamlessly managing multiple DeFi applications to maximize returns in various protocols in a fraction of the time.

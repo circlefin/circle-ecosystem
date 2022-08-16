@@ -6,3 +6,4 @@ website: "https://perawallet.app/"
 fiatOnRamp: false
 categories:
   - wallets
+description: Pera is a solution to revive on-chain trading volume in selected liquidity pools, all in a fashion that yields reward to traders.

@@ -6,3 +6,4 @@ website: "https://luaswap.org/#/"
 fiatOnRamp: false
 categories:
   - defi
+description: LuaSwap is an AMM-based DEX for token swaps. The protocol enables liquidity providers of certain pools on Uniswap to farm LUA tokens.

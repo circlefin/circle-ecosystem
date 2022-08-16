@@ -7,3 +7,4 @@ fiatOnRamp: false
 categories:
   - defi
   - borrowing_lending
+description: Aave is an open-source liquidity protocol for decentralized lending and borrowing. It mints ERC20-compliant aTokens at a 1:1 ratio to supplied assets.

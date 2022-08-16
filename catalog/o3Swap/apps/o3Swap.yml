@@ -6,3 +6,4 @@ website: "https://o3swap.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: O3Swap is a cross-chain aggregation protocol that gives users access to crypto financial services. It enables access to multichain liquidity sources.

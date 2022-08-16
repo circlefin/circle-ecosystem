@@ -6,3 +6,4 @@ website: "https://gmx.io"
 fiatOnRamp: false
 categories:
   - defi
+description: GMX is a decentralized perpetual exchange where users can trade BTC, ETH, AVAX, USDC, and other top cryptocurrencies with up to 30x leverage.

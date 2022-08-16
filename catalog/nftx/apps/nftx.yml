@@ -6,3 +6,4 @@ website: "https://nftx.io/"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: NFTX is a protocol platform creating liquid markets for illiquid NFTs. It enables creation and trading of funds that are composable and fungible.

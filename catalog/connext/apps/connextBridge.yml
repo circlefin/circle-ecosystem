@@ -6,3 +6,4 @@ website: "https://bridge.connext.network/"
 fiatOnRamp: false
 categories:
   - defi
+description: Connext is a crosschain liquidity network that enables fast, fully-noncustodial transfers between EVM-compatible chains and L2 systems.

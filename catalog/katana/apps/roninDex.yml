@@ -7,3 +7,4 @@ fiatOnRamp: false
 categories:
   - defi
   - trading_exchanges
+description: Katana is a yield generation protocol for Solana. It helps users profit from crypto assets as it automatically farms yield from DeFi protocols.

@@ -6,3 +6,4 @@ website: "https://www.oneswap.net/"
 fiatOnRamp: false
 categories:
   - defi
+description: OneSwap is a fully decentralized exchange protocol on smart contract, with permission-free token listing and automated market making.

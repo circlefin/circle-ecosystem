@@ -6,3 +6,4 @@ website: "https://www.kingswap.io/"
 fiatOnRamp: false
 categories:
   - defi
+description: 'A DeFi liquidity pool platform that regulates off-ramp fiat currency conversion solutions to offer convenience between fiat and crypto worlds. '

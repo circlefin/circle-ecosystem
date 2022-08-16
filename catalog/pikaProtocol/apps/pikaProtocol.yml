@@ -6,3 +6,4 @@ website: "https://www.pikaprotocol.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: Pika Protocol is a decentralized perpetuals swap exchange on Ethereum. It offers support up to 50x leverage, deep liquidity, low fees, and more.

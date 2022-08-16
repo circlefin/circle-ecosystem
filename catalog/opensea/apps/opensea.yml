@@ -6,3 +6,4 @@ website: "https://opensea.io/"
 fiatOnRamp: false
 categories:
   - nft_marketplaces
+description: OpenSea is a P2P marketplace for crypto collectibles and NFTs. It includes collectibles, gaming items, and other virtual goods backed by a blockchain.

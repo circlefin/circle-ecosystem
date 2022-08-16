@@ -6,3 +6,4 @@ website: "https://bitbuy.ca/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Bitbuy is a leading Canadian crypto trading platform. It offers liquidity across 10+ spot trading markets through its interfaces and OTC desk.
