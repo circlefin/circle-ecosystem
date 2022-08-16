@@ -7,3 +7,4 @@ fiatOnRamp: false
 categories:
   - trading_exchanges
   - investing_yield
+description: Stargate is a cross-chain liquidity transfer protocol that lets users and dapps transfer native assets between chains in a capital-efficient manner.

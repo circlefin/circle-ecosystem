@@ -6,3 +6,4 @@ website: "https://bridge.arbitrum.io/"
 fiatOnRamp: false
 categories:
   - defi
+description: Arbitrum powers fast, private, decentralized applications. It is an optimistic rollup built to scale Ethereum.

@@ -6,3 +6,4 @@ website: "https://www.ibanera.com/"
 fiatOnRamp: true
 categories:
   - cefi
+description: Ibanera is a fintech firm that offers banking tools and solutions like merchant services, currency exchange, payment solutions, and others.

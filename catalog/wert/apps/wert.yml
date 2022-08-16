@@ -6,3 +6,4 @@ website: "https://wert.io/"
 fiatOnRamp: true
 categories:
   - remittances
+description: Wert offers a top-up module, that can be integrated to any website or mobile app and enables seamless purchasing of crypto.

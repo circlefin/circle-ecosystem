@@ -6,3 +6,4 @@ website: "https://benqi.fi/"
 fiatOnRamp: false
 categories:
   - borrowing_lending
+description: Benqui is a decentralized finance liquidity market protocol that is built on the Avalanche blockchain.

@@ -6,3 +6,4 @@ website: "https://ftx.com"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: FTX is a crypto derivatives exchange built by traders, for traders. It aims to be powerful enough for pro traders and intuitive enough for new users.

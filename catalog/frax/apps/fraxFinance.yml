@@ -6,3 +6,4 @@ website: "https://frax.finance/"
 fiatOnRamp: false
 categories:
   - defi
+description: The Frax Protocol introduced the concept of a cryptocurrency being partially backed by collateral and partially stabilized algorithmically.

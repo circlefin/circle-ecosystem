@@ -7,3 +7,4 @@ fiatOnRamp: false
 categories:
   - defi
   - investing_yield
+description: SeaSwap is a fork of the Uniswap protocol for exchanging ERC-20 tokens. It eliminates trusted intermediaries and unnecessary forms of rent extraction.

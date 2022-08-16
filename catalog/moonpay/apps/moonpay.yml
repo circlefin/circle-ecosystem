@@ -6,3 +6,4 @@ website: "https://www.moonpay.com/"
 fiatOnRamp: true
 categories:
   - remittances
+description: MoonPay is a fintech that provides crypto payment solutions. Its on-and-off-ramp products provides seamless conversion between fiat and crypto.

@@ -6,3 +6,4 @@ website: "https://kyberswap.com/swap"
 fiatOnRamp: false
 categories:
   - trading_exchanges
+description: KyberSwap is a DEX aggregator and liquidity protocol that achieves the best rates for crypto traders and high returns for liquidity providers.

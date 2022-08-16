@@ -6,3 +6,4 @@ website: "https://www.banexcoin.com/"
 fiatOnRamp: true
 categories:
   - trading_exchanges
+description: Banexcoin is a digital platform that offers an easy way to convert crypto to local fiat currency. It is compliant with PCI DSS.

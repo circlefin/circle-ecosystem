@@ -6,3 +6,4 @@ website: "https://stripe.com/connect"
 fiatOnRamp: true
 categories:
   - remittances
+description: Stripe builds economic infrastructure for the internet. Businesses of all sizes use it to accept online payments and run complex global operations.

@@ -6,3 +6,4 @@ website: "https://burgerswap.org/"
 fiatOnRamp: false
 categories:
   - defi
+description: BurgerSwap is a decentralized exchange built on top of BSC. It allows users to conduct cryptocurrency swaps facilitated by its AMM.

@@ -6,3 +6,4 @@ website: "https://chainswap.com/"
 fiatOnRamp: false
 categories:
   - defi
+description: ChainSwap is a cross-chain asset bridge and app hub for smart chains. ChainSwap allows projects to seamlessly bridge between ETH, BSC, and HECO.

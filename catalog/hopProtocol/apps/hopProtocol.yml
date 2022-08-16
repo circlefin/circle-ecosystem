@@ -6,3 +6,4 @@ website: "https://hop.exchange/"
 fiatOnRamp: false
 categories:
   - defi
+description: Hop Protocol is a scalable rollup-to-rollup general token bridge. Its allows you to send your tokens across Etherum scaling solutions.
