@@ -10,19 +10,10 @@ fiatOnRamp: true
 audiences:
   - consumers
 blockchains:
-  - bitcoin
   - ethereum
-  - litecoin
-  - bitcoin cash
-  - bnb Chain
   - avalanche
   - fantom
   - polygon
-  - Arbitrum
-  - THORChain
-  - terra Classic
-  - terra 2.0
-  - dogecoin
 categories:
   - wallets
 platforms:
