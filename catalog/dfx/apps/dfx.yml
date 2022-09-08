@@ -1,0 +1,12 @@
+id: "9c62a88a-f426-4385-a858-190cc66e3ce8"
+companyName: "DFX"
+appName: "DFX Finance"
+logo: "catalog/dfx/logos/dfx.png"
+website: "https://dfx.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+  - remittances
+description: DFX Finance is a decentralized foreign exchange (FX) protocol optimized for trading fiat-backed foreign stablecoins.
