@@ -1,9 +1,0 @@
-id: "9bb0a709-23e1-45e3-96b1-c8f5dd5fa3f9"
-companyName: "Alameda Research"
-appName: "Alameda"
-logo: "catalog/circle/logos/placeHolder.png"
-website: "https://www.alameda-research.com/"
-fiatOnRamp: false
-categories:
-  - trading_exchanges
-description: Alameda Research is a quantitative cryptocurrency trading firm that provides liquidity in cryptocurrency and digital assets markets.
