@@ -3,7 +3,7 @@ companyName: "MERJ"
 appName: "MERJ"
 logo: "catalog/circle/logos/placeHolder.png"
 website: "https://merj.exchange/"
+description: MERJ is a regulated securities exchange that supports digital and non-digital securities. It offers an institutional-grade matching engine and more.
 fiatOnRamp: true
 categories:
   - trading_exchanges
-description: MERJ is a regulated securities exchange that supports digital and non-digital securities.It offers an institutional-grade matching engine and more.

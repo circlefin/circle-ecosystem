@@ -1,0 +1,9 @@
+id: "be0da8d2-b0a5-43c2-be1e-2d87a209405d"
+companyName: "Harbor"
+appName: "Harbor"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://harbortrade.com/"
+description: Harbor is creating a new ecosystem for international trade, allowing buyers and suppliers to access financial services historically reserved for large corporations.
+fiatOnRamp: true
+categories:
+  - trading_exchanges

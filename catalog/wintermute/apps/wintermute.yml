@@ -3,7 +3,7 @@ companyName: "Wintermute"
 appName: "Wintermute"
 logo: "catalog/circle/logos/placeHolder.png"
 website: "https://www.wintermute.com/"
+description: Wintermute is a massive global algorithmic market maker in digital assets, spanning hundreds of cryptocurrencies.
 fiatOnRamp: true
 categories:
   - defi
-description: Wintermute Trading is a crypto market maker focused on proprietary trading, providing market-making services to crypto projects and crypto exchanges.

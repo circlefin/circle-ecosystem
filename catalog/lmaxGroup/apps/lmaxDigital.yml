@@ -1,0 +1,9 @@
+id: "94c57680-be72-4f05-8a24-93a011d39256"
+companyName: "LMAX Group"
+appName: "LMAX Digital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.lmaxdigital.com/"
+description: LMAX Digital is a leading institutional spot cryptocurrency exchange that processes over $2 billion/day in trades with its ultra-low latency infrastructure.
+fiatOnRamp: true
+categories:
+  - trading_exchanges

@@ -1,0 +1,9 @@
+id: "abbcecf2-5bf4-4210-ac09-1e5b02b33c4c"
+companyName: "Robinhood"
+appName: "Robinhood"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://robinhood.com/"
+description: Robinhood is a stock brokerage that allows customers to buy and sell stocks, options, ETFs, and cryptocurrencies with zero commission.
+fiatOnRamp: true
+categories:
+  - trading_exchanges

@@ -3,9 +3,9 @@ companyName: "Shiftly"
 appName: "Shiftly"
 logo: "catalog/circle/logos/placeHolder.png"
 website: "https://shiftly.co.za/"
+description: Digital assets trade at a premium in South Africa, which means you can buy overseas and sell locally for a profit. We’ve built a service that automates the entire process for your benefit.
 fiatOnRamp: true
 categories:
   - defi
   - trading_exchanges
   - investing_yield
-description: Shiftly is a leading provider of digital asset arbitrage. It creates opportunities for residents to buy overseas and sell locally to make a profit.

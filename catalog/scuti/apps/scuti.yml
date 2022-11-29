@@ -1,0 +1,9 @@
+id: "4fd66d9c-da6f-40b0-93da-5f811907b007"
+companyName: "Scuti"
+appName: "Scuti"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.scuti.store/"
+description: Scuti is a game platform and the world’s first retail marketplace allowing brands to sell and ship directly to game players.
+fiatOnRamp: true
+categories:
+  - gaming

@@ -3,7 +3,7 @@ companyName: "Ramp"
 appName: "Ramp"
 logo: "catalog/circle/logos/placeHolder.png"
 website: "https://ramp.network/"
+description: Ramp is a finance automation platform that eliminates outdated software that wastes time and promotes complicated points programs.
 fiatOnRamp: true
 categories:
   - remittances
-description: Ramp connects blockchain with banks using open APIs. Its goal is to mesh the connection between the open blockchain and the closed banking system.

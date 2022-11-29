@@ -1,0 +1,10 @@
+id: "abe92bb9-bd43-4c3b-ab8f-a1a53b280033"
+companyName: "Bittrex Global"
+appName: "Bittrex"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bittrex.com/"
+description: Bittrex is a world-class crypto exchange focused on trust. It offers lightning-fast trades, dependable digital wallets and industry-leading security.
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
