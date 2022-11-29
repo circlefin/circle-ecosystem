@@ -1,0 +1,10 @@
+id: "d3a37ec8-7d4d-45b6-83ea-1e3108b624f1"
+companyName: "Zebec"
+appName: "Zebec"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.zebec.io/"
+description: Zebec is establishing programmable money streaming as a foundation for better financial innovation.
+fiatOnRamp: true
+categories:
+  - defi
+  - remittances

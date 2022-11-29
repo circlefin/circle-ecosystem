@@ -3,7 +3,7 @@ companyName: "Fonbnk"
 appName: "Fonbnk"
 logo: "catalog/circle/logos/placeHolder.png"
 website: "https://www.fonbnk.com/"
+description: Fonbnk is a Web3 company bringing Decentralized Finance (DeFi) to the masses across emerging markets.
 fiatOnRamp: true
 categories:
   - cefi
-description: Fonbnk is a distributed finance company enabling a frictionless onramp for emerging markets.

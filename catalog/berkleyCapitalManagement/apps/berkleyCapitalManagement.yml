@@ -1,0 +1,9 @@
+id: "20fff495-faa5-484e-b6d6-8df56042f278"
+companyName: "Berkley Capital Management"
+appName: "Berkley Capital Management"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://berkleycap.com/"
+description: Berkley Capital Management is a professional wealth management firm that employs cryptocurrency investment strategies for fixed income portfolios.
+fiatOnRamp: false
+categories:
+  - investing_yield

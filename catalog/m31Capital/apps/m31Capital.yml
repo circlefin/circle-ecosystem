@@ -1,0 +1,9 @@
+id: "1c38d21d-326a-4765-b061-4ae4addda86d"
+companyName: "M31 Capital"
+appName: "M31 Capital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.m31.capital/"
+description: M31 Capital is a global investment firm focused entirely on crypto assets.
+fiatOnRamp: false
+categories:
+  - investing_yield

@@ -1,0 +1,9 @@
+id: "c3f4cd00-0505-4bde-86d6-9b45ca36cf52"
+companyName: "Minds"
+appName: "Minds"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.minds.com/"
+description: Minds is a crypto-based social media network and secure messaging app that lets users get paid for creating content, driving traffic and referring friends.
+fiatOnRamp: true
+categories:
+  - defi

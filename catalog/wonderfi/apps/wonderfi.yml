@@ -1,0 +1,9 @@
+id: "1dd4d5c8-5468-4d87-be67-65c7ac30e4c9"
+companyName: "WonderFi"
+appName: "WonderFi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.wonder.fi/"
+description: WonderFi’s mission is to bring fair, efficient and accessible finance to the masses by empowering them to access DeFi in a simple, smart and secure way.
+fiatOnRamp: true
+categories:
+  - defi

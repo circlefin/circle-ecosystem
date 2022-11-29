@@ -1,0 +1,9 @@
+id: "3f6cbf03-714f-4f69-ab2d-91dacbcac651"
+companyName: "Grapefruit Trading"
+appName: "Grapefruit Trading"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://gfru.it/"
+description: Grapefruit Trading is known for providing liquidity in cryptocurrencies and offering a personalized way to trade off-exchange via its OTC desk.
+fiatOnRamp: true
+categories:
+  - trading_exchanges
