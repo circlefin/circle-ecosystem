@@ -1,0 +1,9 @@
+id: "bff8f86f-77b0-405a-a912-f1dbb5fa00f0"
+companyName: "Safeswap"
+appName: "Safeswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://safeswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+description: SafeSwap is a reliable, decentralized atomic swap protocol. It supports atomic swaps, allowing users to swap a token from one blockchain to another.

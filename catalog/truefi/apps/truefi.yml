@@ -1,0 +1,11 @@
+id: "50330086-9b60-4fbd-a1e6-510d169bfa38"
+companyName: "TrueFi"
+appName: "TrueFi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://truefi.io/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: TrueFi is a decentralized protocol for uncollateralized on-chain lending. It aims to be the ultimate automated credit rating and lending system.

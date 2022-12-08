@@ -1,0 +1,9 @@
+id: "85f825b8-dedc-4b2c-bb41-83d094818172"
+companyName: "Burgerswap"
+appName: "Burgerswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://burgerswap.org/"
+fiatOnRamp: false
+categories:
+  - defi
+description: BurgerSwap is a decentralized exchange built on top of BSC. It allows users to conduct cryptocurrency swaps facilitated by its AMM.

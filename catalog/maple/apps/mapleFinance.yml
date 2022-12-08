@@ -1,0 +1,11 @@
+id: "042ff7f9-0429-4bbf-b5fa-32f8f29632f5"
+companyName: "Maple"
+appName: "Maple Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.maple.finance/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: Maple is an institutional crypto-capital network built on Ethereum and Solana. It provides uncollateralized lending and income opportunities.

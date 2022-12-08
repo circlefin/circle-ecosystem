@@ -1,0 +1,9 @@
+id: "81e4674f-338f-4f85-90fa-5046f847cc20"
+companyName: "B.Protocol"
+appName: "B.Protocol"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bprotocol.org/"
+fiatOnRamp: false
+categories:
+  - defi
+description: B.Protocol offers a Backstop DeFi primitive, unlocking higher capital efficiency. By democratizing liquidation they shift MEV and to the community.

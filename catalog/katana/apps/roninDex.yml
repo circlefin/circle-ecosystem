@@ -1,0 +1,10 @@
+id: "85d74144-92ec-400b-84a0-bdfc03e9728c"
+companyName: "Katana"
+appName: "Ronin Dex"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://katana.roninchain.com/#/swap"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Katana is a yield generation protocol for Solana. It helps users profit from crypto assets as it automatically farms yield from DeFi protocols.

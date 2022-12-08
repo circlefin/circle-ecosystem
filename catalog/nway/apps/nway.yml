@@ -1,0 +1,9 @@
+id: "6e502ca0-3b77-43d6-8061-071259cd937a"
+companyName: "nWay"
+appName: "nWay"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nway.com/"
+fiatOnRamp: false
+categories:
+  - gaming
+description: nWay aims to create fun, quality multiplayer games for web and mobile platforms. Its games are F2P and feature synchronous multiplayer gameplay.

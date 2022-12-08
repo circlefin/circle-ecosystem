@@ -1,0 +1,10 @@
+id: "0acb17cb-b6bb-4a45-8641-1c0a9fbc9207"
+companyName: "Trisolaris"
+appName: "Trisolaris"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.trisolaris.io/#/swap"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: 'Trisolaris is a community-owned DEX with a fast settlement, low fees, and a democratic governance process. It is the #1 DEX on the Aurora engine.'

@@ -1,0 +1,9 @@
+id: "fca6ffb2-0bd9-4ed3-9e8a-0766af49d2a8"
+companyName: "Ibanera"
+appName: "Ibanera"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.ibanera.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+description: Ibanera is a fintech firm that offers banking tools and solutions like merchant services, currency exchange, payment solutions, and others.

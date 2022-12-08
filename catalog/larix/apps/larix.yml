@@ -1,0 +1,11 @@
+id: "5e381c86-932f-42e3-b196-40b85592f724"
+companyName: "Larix"
+appName: "Larix"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://projectlarix.com/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: Larix is the first metaverse-based finance protocol on Solana. Its dynamic interest rate model creates more capital-efficient risk management pools.

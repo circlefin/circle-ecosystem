@@ -1,0 +1,9 @@
+id: "ab0b43d8-7fec-42e9-8785-1c9b49de30d8"
+companyName: "Bitexen"
+appName: "Bitexen"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitexen.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Bitexen is a Turkish crypto exchange which has an API and easy-to-use interface both on web, iOS and Android. It offers a reliable trading platform.

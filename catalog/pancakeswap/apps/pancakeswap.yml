@@ -1,0 +1,11 @@
+id: "b4b49d61-a17e-47bc-9665-e2fc61f0ae3a"
+companyName: "Pancakeswap"
+appName: "Pancakeswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://pancakeswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: PancakeSwap provides an AMM, allowing users to trade and swap DeFi tokens. It hosts millions of users and billions of TVL.

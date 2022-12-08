@@ -1,0 +1,9 @@
+id: "70bf2231-7612-4c79-abc4-d78e754a8178"
+companyName: "Kingswap"
+appName: "Kingswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.kingswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+description: 'A DeFi liquidity pool platform that regulates off-ramp fiat currency conversion solutions to offer convenience between fiat and crypto worlds. '

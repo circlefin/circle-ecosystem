@@ -1,0 +1,9 @@
+id: "590d27e7-48ab-4088-9eb5-da949a27c828"
+companyName: "Connext"
+appName: "Connext Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bridge.connext.network/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Connext is a crosschain liquidity network that enables fast, fully-noncustodial transfers between EVM-compatible chains and L2 systems.

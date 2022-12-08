@@ -1,0 +1,9 @@
+id: "409897e4-c9ca-4560-8b3c-c460e77c755b"
+companyName: "Multichain"
+appName: "Multichain"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.multichain.org/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Multichain is a cross-chain router protocol; an infrustructure for multi-chain ecosystem, envisioned to become the ultimate router for Web3.

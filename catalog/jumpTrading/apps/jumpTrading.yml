@@ -1,0 +1,9 @@
+id: "10219c96-1cbc-494d-99c1-8dd6b28fe02a"
+companyName: "Jump Trading"
+appName: "Jump Trading"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.jumptrading.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Jump Trading is a globally-positioned, proprietary trading firm that remains on the cutting edge of algorithmic trading. It is privately funded.

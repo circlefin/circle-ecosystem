@@ -1,0 +1,9 @@
+id: "670cfac4-4ddf-46b9-acd3-96312f9707a1"
+companyName: "Hex Trust"
+appName: "Hex Trust"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://hextrust.com/"
+fiatOnRamp: false
+categories:
+  - cefi
+description: Hex Trust is a licensed and insured provider of bank-grade custody for digital assets. Its Hex Safe product delivers custody, brokerage, and more.

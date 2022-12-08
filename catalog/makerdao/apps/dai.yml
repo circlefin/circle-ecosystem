@@ -1,0 +1,9 @@
+id: "fb801bb8-9503-415d-b6e5-10345e2393e7"
+companyName: "MakerDAO"
+appName: "DAI"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://makerdao.com/en/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Maker is a DAO on Ethereum seeking to minimize price volatility for its own stablecoin (the Dai) against IMF’s international currency basket SDR.

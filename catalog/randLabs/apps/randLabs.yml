@@ -1,0 +1,9 @@
+id: "3bcdfd90-b1d1-432f-a8fd-e9221e5f56bc"
+companyName: "Rand Labs"
+appName: "Rand Labs"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.randlabs.io/"
+fiatOnRamp: false
+categories:
+  - cefi
+description: Rand Labs is a blockchain development lab specialized in Algorand technology. It is focused on building blockchain based products and infrastructure.

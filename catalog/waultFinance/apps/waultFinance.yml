@@ -1,0 +1,9 @@
+id: "4147b253-acf8-4264-867a-41e315555475"
+companyName: "Wault Finance"
+appName: "Wault Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://wault.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Wault Finance is a decentralized finance protocol. Wault Finance is cross-chain and supports the Binance Smart Chain and Polygon ecosystems.

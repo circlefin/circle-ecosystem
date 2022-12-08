@@ -1,0 +1,10 @@
+id: "d0cf2224-153f-4977-ab92-5f5afead13fa"
+companyName: "Stablegains"
+appName: "Stablegains"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.stablegains.com/"
+fiatOnRamp: true
+categories:
+  - defi
+  - investing_yield
+description: Stablegains makes it simple and safe for people and businesses to earn high interest on their cash by using DeFi.

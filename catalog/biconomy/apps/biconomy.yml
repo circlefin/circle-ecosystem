@@ -1,0 +1,9 @@
+id: "d156f7ac-ddd4-4c4b-bae5-7cbbc1220d96"
+companyName: "Biconomy"
+appName: "Biconomy"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.biconomy.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Biconomy is a relayer infrastructure network and transaction highway that reduces friction between apps built on blockchain.

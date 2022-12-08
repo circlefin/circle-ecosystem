@@ -1,0 +1,10 @@
+id: "dc5d43be-81d0-4d37-851b-778e39357a48"
+companyName: "Tokenlon"
+appName: "Tokenlon"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://tokenlon.im/?locale=en-US"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Tokenlon solves liquidity by aggregating multiple liquidity sources, including professional market makers off-chain and AMMs on-chain.

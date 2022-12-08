@@ -1,0 +1,10 @@
+id: "56dd5904-6756-41e7-9a74-0f96c310a0c6"
+companyName: "YuzuSwap"
+appName: "YuzuSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://yuzu-swap.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: YuzuSwap is a decentralized exchange on the Oasis Emerald paratime that includes incentives like liquidity and and trade mining.

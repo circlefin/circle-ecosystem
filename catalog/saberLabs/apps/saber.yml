@@ -1,0 +1,11 @@
+id: "43dfac13-f97f-4ddf-8891-666808e2033e"
+companyName: "Saber Labs"
+appName: "Saber"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://saber.so/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Saber is an AMM and liquidity pool on Solana designed for extremely efficient trading between similarly priced assets, without an opportunity cost.

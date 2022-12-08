@@ -1,0 +1,9 @@
+id: "3917dd94-89bb-42d5-863f-55695a14db55"
+companyName: "Furucombo"
+appName: "Furucombo"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://furucombo.app/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. Just like building your own DeFi legos.

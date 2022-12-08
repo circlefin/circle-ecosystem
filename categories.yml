@@ -1,0 +1,43 @@
+categories:
+ - categoryID: 5b5b93b4-d731-44f3-b746-e6b30383484d
+   categoryName: BANKING
+   categoryParamName: banking
+ - categoryID: c41fcf96-f2bb-496a-b35d-2089411ffd3f
+   categoryName: BORROWING/LENDING
+   categoryParamName: borrowing_lending
+ - categoryID: a9c92a5b-3f0d-4cf0-9eb6-e86306371067
+   categoryName: CEFI
+   categoryParamName: cefi
+ - categoryID: 40093187-13c3-4b7c-8dcd-b6f7c71533ca
+   categoryName: CHARITY
+   categoryParamName: charity
+ - categoryID: dc4ba24a-c114-45c1-b315-2c475e8646c4
+   categoryName: DEFI
+   categoryParamName: defi
+ - categoryID: df54459d-278c-4cab-8619-ca3328357e9d
+   categoryName: ECOMMERCE
+   categoryParamName: ecommerce
+ - categoryID: 296ce775-fbf6-47ad-aec6-19834ca1ba92
+   categoryName: ENTERTAINMENT
+   categoryParamName: entertainment
+ - categoryID: 10f381a8-9899-4034-8800-c8a7708700f4
+   categoryName: GAMING
+   categoryParamName: gaming
+ - categoryID: 07fe2f77-7fc1-4359-86dd-839effd89bbd
+   categoryName: INVESTING/YIELD
+   categoryParamName: investing_yield
+ - categoryID: 12f6dbbd-4332-4ecc-a125-29a786dd8ca0
+   categoryName: NFT MARKETPLACES
+   categoryParamName: nft_marketplaces
+ - categoryID: 319b2cb0-c4fd-4fde-a86d-19e99140ef62
+   categoryName: PAYROLL
+   categoryParamName: payroll
+ - categoryID: 6cecff79-8409-4826-82e4-790c895e3f2d
+   categoryName: REMITTANCES
+   categoryParamName: remittances
+ - categoryID: ad855201-648f-48b7-8e39-8847d04bbb54
+   categoryName: TRADING/EXCHANGES
+   categoryParamName: trading_exchanges
+ - categoryID: d7479cb5-afce-4c38-88e8-88a5ac3405f5
+   categoryName: WALLETS
+   categoryParamName: wallets

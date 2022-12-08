@@ -1,0 +1,9 @@
+id: "5295fa73-0e39-45a6-ac82-80b6f7ca132d"
+companyName: "Teaswap.Art"
+appName: "Teaswap.Art"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.teaswap.art/drops"
+fiatOnRamp: true
+categories:
+  - nft_marketplaces
+description: TeaSwap is a platform created by TSANFT, a cross-chain marketplace of digital NFT Art built on the Binance Smart Chain and Ethereum network.

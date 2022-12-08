@@ -1,0 +1,10 @@
+id: "f18a410c-96cc-476f-85cd-1a9919c95574"
+companyName: "Solarbeam"
+appName: "Solarbeam"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://solarbeam.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: The Solarbeam foundation powers the growth of Moonbeam and Moonriver networks through its leading exchanges. Swap, earn, farm, and launch projects.

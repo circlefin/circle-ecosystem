@@ -1,0 +1,9 @@
+id: "587590ae-4e6f-4518-806e-20e11cae3186"
+companyName: "BTCEX"
+appName: "BTCEX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.btcex.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: BTCEX is a digital asset trading platform that provides spot and derivative trading, such as margin, quarterly and perpetual contracts, and options.

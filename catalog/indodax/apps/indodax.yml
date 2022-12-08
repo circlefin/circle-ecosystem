@@ -1,0 +1,9 @@
+id: "8d94a40b-f39f-47e3-9638-17f4a754f267"
+companyName: "Indodax"
+appName: "Indodax"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://indodax.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: INDODAX is the longest-running blockchain digital asset exchange in Indonesia. It allows users to trade crypto assets with the Indonesian Rupiah.

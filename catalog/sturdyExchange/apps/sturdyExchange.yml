@@ -1,0 +1,9 @@
+id: "33eaaf9d-712e-4100-9316-5c1eb49dd690"
+companyName: "Sturdy Exchange"
+appName: "Sturdy Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://sturdy.exchange/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+description: Sturdy Exchange is a platform that provides a curated NFT experience for collectors.

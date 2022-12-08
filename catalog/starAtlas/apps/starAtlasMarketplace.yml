@@ -1,0 +1,10 @@
+id: "38d94acd-66ef-4e21-8602-48bb716a3757"
+companyName: "Star Atlas"
+appName: "Star Atlas Marketplace"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://play.staratlas.com/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - nft_marketplaces
+description: Star Atlas is a metaverse introducing a unique gaming experience by harnessing the power of traditional core game and blockchain mechanics.

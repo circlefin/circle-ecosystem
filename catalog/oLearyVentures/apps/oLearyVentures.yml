@@ -1,0 +1,9 @@
+id: "ce153866-4c0b-48e6-a0b1-e1eac086b02f"
+companyName: "O'Leary Ventures"
+appName: "O'Leary Ventures"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://olearyventures.com/"
+description: O'Leary Ventures is a generalist venture capital investment platform with a diverse track record of investing across many sectors.
+fiatOnRamp: false
+categories:
+  - investing_yield

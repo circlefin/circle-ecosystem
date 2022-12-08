@@ -1,0 +1,10 @@
+id: "5e807536-6918-474c-a3bf-424e2bdb0774"
+companyName: "THORChain"
+appName: "THORswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://thorchain.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: 'The THORChain ecosystem is built for a singular purpose: to create a massive payment network for payment freedom.'

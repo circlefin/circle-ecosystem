@@ -1,0 +1,9 @@
+id: "c22946aa-7c50-408c-8f26-67fcab4b9a61"
+companyName: "SUKU"
+appName: "SUKU"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.suku.world/"
+fiatOnRamp: false
+categories:
+  - defi
+description: SUKU is a blockchain-based ecosystem that aims to make supply chains more efficient, transparent, and collaborative.

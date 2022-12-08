@@ -1,0 +1,9 @@
+id: "1ef3bd3a-61d2-4acd-8858-8ae4dd680a98"
+companyName: "O(1) Labs"
+appName: "O(1) Labs"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://o1labs.org/"
+fiatOnRamp: false
+categories:
+  - cefi
+description: O(1) Labs is a global and remote company that incubated the Mina Protocol. Its team operates on the cutting edge of Web3 and zero-knowledge-proofs.

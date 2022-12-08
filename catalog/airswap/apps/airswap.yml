@@ -1,0 +1,10 @@
+id: "4e00bfa3-8d61-49c3-9788-726de8d6da47"
+companyName: "Airswap"
+appName: "Airswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.airswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: AirSwap is a decentralized P2P trading network powered by Ethereum. It protects traders from counterparty risk, slippage, and front running.

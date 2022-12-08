@@ -1,0 +1,9 @@
+id: "27493067-7071-45fb-8d84-093713893233"
+companyName: "Arival"
+appName: "Arival"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://arival.com/"
+fiatOnRamp: true
+categories:
+  - banking
+description: Arival is an enterprise-level fintech tool protected by advanced encryption. It is a digital banking platform that helps simplify complex business banking needs.

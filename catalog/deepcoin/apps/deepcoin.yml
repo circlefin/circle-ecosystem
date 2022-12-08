@@ -1,0 +1,9 @@
+id: "ee28bd34-930d-4cb6-87d0-82603e111cdd"
+companyName: "Deepcoin"
+appName: "Deepcoin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.deepcoin.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: Deepcoin is a crypto derivative trading platform supporting leveraged trading with Perpetual and CFD contracts, investment opportunities, and more.

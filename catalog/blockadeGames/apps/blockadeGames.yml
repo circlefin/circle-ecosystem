@@ -1,0 +1,9 @@
+id: "168fba72-54c0-4781-bea1-542d3b24e384"
+companyName: "Blockade Games"
+appName: "Blockade Games"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://blockade.games/"
+fiatOnRamp: false
+categories:
+  - gaming
+description: Blockade Games is a web3 gaming studio that develops blockchain-based video games. It is most well known for Neon District, a cyberpunk RPG.

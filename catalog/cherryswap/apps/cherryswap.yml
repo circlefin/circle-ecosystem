@@ -1,0 +1,12 @@
+id: "7a33fb18-6485-48be-868d-40add726072b"
+companyName: "CherrySwap"
+appName: "CherrySwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.cherryswap.net/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+  - gaming
+  - investing_yield
+  - nft_marketplaces
+description: Cherry Swap is an autonomous, open-source platforn for interest rate swaps on compound finance markets.

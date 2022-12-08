@@ -1,0 +1,10 @@
+id: "2e0cb7ac-403e-4592-b939-924918438b8a"
+companyName: "AID:Tech"
+appName: "AID:Tech"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.aid.technology/"
+fiatOnRamp: true
+categories:
+  - remittances
+  - remittances
+description: AID:Tech is a digital reputation platform for Web3. It provides decentralized digital ID infrastructure to facilitate on-chain reputation.

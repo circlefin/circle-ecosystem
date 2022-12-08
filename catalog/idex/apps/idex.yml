@@ -1,0 +1,9 @@
+id: "1799873e-c424-4c0e-a6e0-587b2a5fd5b0"
+companyName: "IDEX"
+appName: "IDEX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://exchange.idex.io/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: IDEX is a high-performance DEX allowing users to buy, sell, and trade crypto. Users can stake IDEX to bolster the trading engine and earn.

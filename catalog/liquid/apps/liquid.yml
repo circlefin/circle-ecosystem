@@ -1,0 +1,9 @@
+id: "c075c604-5ff3-4fdd-afc6-374b524ea741"
+companyName: "Liquid"
+appName: "Liquid"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.liquid.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Liquid is a comprehensive and secure trading platform for beginners and pros. It is one of the world's largest cryptocurrency-fiat exchange platforms.

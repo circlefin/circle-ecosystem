@@ -1,0 +1,10 @@
+id: "c7336cd7-936b-43cc-989d-ee06404f89bf"
+companyName: "Bullish"
+appName: "Bullish"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bullish.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - investing_yield
+description: A consumer investment firm and creative agency, Bullish is a new breed of crypto exchange. It integrates cryptographic safeguards to protect users.

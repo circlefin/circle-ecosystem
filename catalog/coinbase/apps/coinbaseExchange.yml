@@ -1,0 +1,11 @@
+id: "9f2e28ad-493b-4ad6-9861-920ea4e1b463"
+companyName: "Coinbase"
+appName: "Coinbase Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.coinbase.com/exchange"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+description: Coinbase Exchange has high throughput APIs that connect users to the deepest liquidity pools of any regulated crypto spot exchange.

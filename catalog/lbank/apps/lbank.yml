@@ -1,0 +1,9 @@
+id: "23a12df8-03d1-43e3-9aa4-37a372fbfcd6"
+companyName: "LBank"
+appName: "LBank"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.lbank.info/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: LBank is a centralized digital asset trading platform for international users. It aims to provide professional digital asset management solutions.

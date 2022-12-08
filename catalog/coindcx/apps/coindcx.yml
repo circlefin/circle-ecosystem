@@ -1,0 +1,9 @@
+id: "62475b60-5c83-4c0c-b508-4183a927ab9b"
+companyName: "CoinDCX"
+appName: "CoinDCX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://coindcx.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: CoinDCX specializes in crypto financial services. It focuses on developing borderless financial services that ensure a simple flow of capital.

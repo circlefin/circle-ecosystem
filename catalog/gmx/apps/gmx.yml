@@ -1,0 +1,9 @@
+id: "9b022414-6f59-4c67-80fa-9fa31e7591c5"
+companyName: "GMX"
+appName: "GMX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://gmx.io"
+fiatOnRamp: false
+categories:
+  - defi
+description: GMX is a decentralized perpetual exchange where users can trade BTC, ETH, AVAX, USDC, and other top cryptocurrencies with up to 30x leverage.

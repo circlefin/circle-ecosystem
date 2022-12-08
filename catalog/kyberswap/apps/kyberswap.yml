@@ -1,0 +1,9 @@
+id: "ced9452a-d998-470d-b99a-e23a4af924ea"
+companyName: "KyberSwap"
+appName: "KyberSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kyberswap.com/swap"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: KyberSwap is a DEX aggregator and liquidity protocol that achieves the best rates for crypto traders and high returns for liquidity providers.

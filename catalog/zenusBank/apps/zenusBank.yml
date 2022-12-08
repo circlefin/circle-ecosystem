@@ -1,0 +1,9 @@
+id: "eb2be290-3971-4d22-9a13-64f5e2374a15"
+companyName: "Zenus Bank"
+appName: "Zenus Bank"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zenus.com/"
+fiatOnRamp: true
+categories:
+  - banking
+description: 'Zenus Bank allows individuals and businesses to apply remotely for a bank account and Visa debit card. It is opening US banking to a global audience. '

@@ -1,0 +1,38 @@
+---
+id: "27d0cea3-d1d2-423e-b9a7-b849eaf79ac3"
+companyName: "Coinbase"
+appName: "Coinbase Wallet"
+logo: "catalog/coinbase/logos/coinbase.png"
+website: "https://www.coinbase.com/wallet"
+description: "Coinbase Wallet is a self-custody mobile cryptocurrency wallet and Web3 dapp browser."
+dao: false
+fiatOnRamp: true
+audiences:
+  - consumers
+blockchains:
+  - algorand
+  - avalanche
+  - cosmos
+  - ethereum
+  - fantom
+  - flow
+  - harmony
+  - hedera
+  - near
+  - polkadot
+  - polygon
+  - solana
+  - stellar
+  - tron
+categories:
+  - wallets
+platforms:
+  - web
+  - ios
+  - android
+regions:
+  - na
+  - latam
+  - emea
+  - apac
+twitter: "https://twitter.com/coinbase"

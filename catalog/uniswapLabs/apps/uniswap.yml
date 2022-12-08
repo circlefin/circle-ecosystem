@@ -1,0 +1,12 @@
+id: "67898f3a-d56c-4d7b-87ee-93e81d53f1bd"
+companyName: "Uniswap Labs"
+appName: "Uniswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.uniswap.org/"
+dao: true
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Uniswap is the largest DEX operating on the Ethereum blockchain. It allows users anywhere in the world to trade crypto without an intermediary.

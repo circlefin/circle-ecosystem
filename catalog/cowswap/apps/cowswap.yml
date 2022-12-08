@@ -1,0 +1,10 @@
+id: "ec8a67c2-ec4d-4af7-a5f2-87420b3cb5a8"
+companyName: "CowSwap"
+appName: "CowSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://cowswap.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: CowSwap is a DEX aggregator and trading interface built on top of CoW protocol. It allows you to buy and sell tokens using gassless orders.

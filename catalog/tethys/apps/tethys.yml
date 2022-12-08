@@ -1,0 +1,10 @@
+id: "0958a7e5-b7cf-40d2-a2bb-4934d84981a0"
+companyName: "Tethys"
+appName: "Tethys"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://tethys.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Tethys is a one-stop decentralized platform leveraging the speed of Metis network. Tethys provides a fast, smooth and optimized experience.

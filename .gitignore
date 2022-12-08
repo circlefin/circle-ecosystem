@@ -1,0 +1,8 @@
+### Intellij ###
+.idea/
+
+### VS Code ###
+.vscode
+
+### Ignore Files ###
+.DS_Store

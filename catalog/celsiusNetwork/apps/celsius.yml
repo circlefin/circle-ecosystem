@@ -1,0 +1,12 @@
+id: "cd9433eb-7935-44e2-a1b8-072a771b0f1a"
+companyName: "Celsius Network"
+appName: "Celsius"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://celsius.network/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+  - borrowing_lending
+description: Celsius is a blockchain-based marketplace providing access to financial services that are not available through traditional institutions.

@@ -1,0 +1,9 @@
+id: "92bd60a6-b047-4011-b224-25f0e3bca841"
+companyName: "Bitvavo"
+appName: "Bitvavo"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bitvavo.com/en"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Bitvavo is an exchange and Bitcoin wallet used to communicate with the Bitcoin network. It's one of the European crypto leaders for institutions.

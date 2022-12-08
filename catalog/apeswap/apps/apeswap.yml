@@ -1,0 +1,12 @@
+id: "2d3fa49d-59b6-4632-8cd7-8407d3c8a51a"
+companyName: "ApeSwap"
+appName: "ApeSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://apeswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - borrowing_lending
+  - trading_exchanges
+  - investing_yield
+description: ApeSwap is a decentralized autonomous organization (DAO) the offers a suite of products, called the DeFi Hub, on BNB chain, Polygon, and Ethereum.

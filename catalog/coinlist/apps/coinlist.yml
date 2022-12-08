@@ -1,0 +1,11 @@
+id: "f3a439dd-2433-4b90-9884-d0312c719da4"
+companyName: "Coinlist"
+appName: "Coinlist"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://coinlist.co/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+description: CoinList's mission is to accelerate the advancement of blockchain technology. They find the best emerging blockchain projects and help them succeed.

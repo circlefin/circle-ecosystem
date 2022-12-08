@@ -1,0 +1,9 @@
+id: "d12fa09e-e6ae-4430-acb3-3cd7f2b4a38a"
+companyName: "RevoFi"
+appName: "RevoFi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://revofi.com/revos/"
+fiatOnRamp: true
+categories:
+  - remittances
+description: RevoFi provides decentralized infrastructure operated by users. Earn Revos by providing network coverage and sharing computing, storage, and more.

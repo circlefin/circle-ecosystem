@@ -1,0 +1,10 @@
+id: "72e7c5b9-e279-4994-abea-e0f107a05c4f"
+companyName: "Yoshi"
+appName: "Yoshi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://yoshi.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Yoshi is a DEX aggregator on Fantom Opera blockchain. Yoshi offers users a simple way to buy crypto tokens via credit card.

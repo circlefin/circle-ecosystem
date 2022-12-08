@@ -1,0 +1,9 @@
+id: "c29ffc76-4002-4da9-b624-c5c311274feb"
+companyName: "VALR"
+appName: "VALR"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.valr.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: VALR.com is a digital asset trading platform where you can buy, sell, store and transfer cryptocurrencies seamlessly and securely.

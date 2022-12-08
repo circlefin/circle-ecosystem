@@ -1,0 +1,9 @@
+id: "314c1576-83de-44b6-9618-3c001bafe742"
+companyName: "Kwikswap Protocol"
+appName: "Kwikswap Protocol"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kwikswap.org/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Kwikswap is a decentralised protocol on the Ethereum network. Users can swap, create markets, add liquidity and stake using the platform.

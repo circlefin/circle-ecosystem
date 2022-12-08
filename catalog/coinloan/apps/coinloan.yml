@@ -1,0 +1,12 @@
+id: "23cea48c-0e64-4b9d-b820-dd8b284fc105"
+companyName: "CoinLoan"
+appName: "CoinLoan"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://coinloan.io/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+  - borrowing_lending
+description: CoinLoan is a crypto lending platform where anyone can issue and get a loan backed by crypto collateral.

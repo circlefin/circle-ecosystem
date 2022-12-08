@@ -1,0 +1,9 @@
+id: "721f2e8e-f9fb-4e91-adda-dc2a55760689"
+companyName: "Lukka"
+appName: "Lukka"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://lukka.tech/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Lukka is a technology and data services provider for middle and back-office crypto asset processing.

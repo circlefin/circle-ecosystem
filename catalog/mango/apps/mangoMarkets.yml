@@ -1,0 +1,11 @@
+id: "95364df5-f2f4-494f-9009-73f41550a8f1"
+companyName: "Mango"
+appName: "Mango Markets"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://mango.markets/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Mango offers decentralized, cross-margin trading up to 20x leverage with lightning speeds and near-zero fees.

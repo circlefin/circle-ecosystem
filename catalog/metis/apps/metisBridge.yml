@@ -1,0 +1,10 @@
+id: "d216251b-14eb-4c2a-9b43-70f53a73998a"
+companyName: "Metis"
+appName: "Metis Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bridge.metis.io/home"
+dao: true
+fiatOnRamp: false
+categories:
+  - defi
+description: Metis is a decentralized economy platform that allows you to start, run, and grow any dapp. It offers low gas fees, native storage and high security.

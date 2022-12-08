@@ -1,0 +1,11 @@
+id: "da6e67f7-b322-46db-a2f3-165c85613d30"
+companyName: "Balancer"
+appName: "Balancer"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://balancer.fi/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Balancer is an automated portfolio manager and trading platform on Ethereum. It lets you to put your assets to work and get the best trading prices.

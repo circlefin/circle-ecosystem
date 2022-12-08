@@ -1,0 +1,9 @@
+id: "aeb94fb0-7e9a-4ac4-a31c-30376d2d1cc0"
+companyName: "PoolTogether"
+appName: "PoolTogether"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://pooltogether.com/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+description: PoolTogether is a crypto-powered savings protocol based on premium bonds. Save money and have a chance to win rewards every week.

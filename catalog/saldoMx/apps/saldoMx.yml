@@ -1,0 +1,9 @@
+id: "c88ba0f8-d7ef-4d06-b088-fe29c2e17b0a"
+companyName: "Saldo.mx"
+appName: "Saldo.mx"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://saldo.mx/index_en.html"
+fiatOnRamp: false
+categories:
+  - defi
+description: Saldo is a digital wallet allowing mobile bill payment to companies in Mexico. Simply select the company, enter a reference number, and pay.

@@ -1,0 +1,9 @@
+id: "aa55b7f5-0533-4a19-82ef-ae22f70e59ef"
+companyName: "Nugbase"
+appName: "Nugbase"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nugbase.com/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+description: Nugbase provides and manages vertically integrated blockchain services, enabling businesses to remain relevant through this technological evolution.

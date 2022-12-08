@@ -1,0 +1,9 @@
+id: "05d5ff8d-0434-4956-9cc4-d9d552d388ab"
+companyName: "XREX"
+appName: "XREX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://xrex.io/"
+fiatOnRamp: true
+categories:
+  - banking
+description: XREX is a neo-fintech leveling the playing field by partnering with banks, regulators, and verified individuals to redefine banking together.

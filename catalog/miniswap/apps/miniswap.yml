@@ -1,0 +1,10 @@
+id: "b9fa7369-3738-4c97-9211-30b24a9c38ee"
+companyName: "Miniswap"
+appName: "Miniswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://minswap.org/"
+fiatOnRamp: true
+categories:
+  - defi
+  - trading_exchanges
+description: Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience.

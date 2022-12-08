@@ -1,0 +1,9 @@
+id: "a0c9e181-59c8-49b4-a50c-0f1abe56f69d"
+companyName: "BitTurk"
+appName: "BitTurk"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bitturk.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: BitTurk allows users to buy, sell, deposit, and withdraw cryptocurrencies. It provides both a cryptocurrency exchange and blockchain-based software.

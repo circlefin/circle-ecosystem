@@ -1,0 +1,9 @@
+id: "64095d38-6c14-4977-9abf-bf46ad3df120"
+companyName: "Strike Protocols"
+appName: "Strike Protocols"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://strikeprotocols.com/"
+fiatOnRamp: true
+categories:
+  - defi
+description: Strike is a fintech firm providing capital markets access to crypto assets. At the heart of their solutions are enterprise-grade wallet technologies.

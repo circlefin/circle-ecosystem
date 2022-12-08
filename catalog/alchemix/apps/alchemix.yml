@@ -1,0 +1,11 @@
+id: "adc73bf4-7db1-4dec-861f-c103a4b00130"
+companyName: "Alchemix"
+appName: "Alchemix"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://alchemix.fi/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: Alchemix offers self-repaying loans that allow you to leverage a range of digital currencies without risk of liquidation.

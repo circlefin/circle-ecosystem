@@ -1,0 +1,10 @@
+id: "9a52ec38-8a81-4d89-ab48-fb3deb22dd00"
+companyName: "Gnosis"
+appName: "Gnosis Safe"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://gnosis-safe.io/"
+dao: true
+fiatOnRamp: false
+categories:
+  - defi
+description: In 2020, Gnosis announced to fully decentralize into a DAO. Today, the GnosisDAO treasury has control of over 150K ETH and 8 Million GNO tokens.

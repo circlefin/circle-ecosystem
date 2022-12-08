@@ -1,0 +1,10 @@
+id: "d102d443-d7ab-4589-adca-6354b65b7837"
+companyName: "Whiteswap"
+appName: "Whiteswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://ws.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: WhiteSwap is an AMM and DEX that currently runs on the Ethereum and Tron blockchains. It solves the most common problems of crypto trading.

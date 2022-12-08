@@ -1,0 +1,9 @@
+id: "8bab0aa9-e8d3-4cdb-9d26-f919ce31f4eb"
+companyName: "Curios"
+appName: "Curios"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.curios.com/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+description: API and backend tools that make it easy for any business to transact on the blockchain and in the metaverse.

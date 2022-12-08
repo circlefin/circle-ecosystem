@@ -1,0 +1,9 @@
+id: "c3c8b7fa-99c6-42c0-b01b-4669040f29a7"
+companyName: "Stealthswap"
+appName: "Stealthswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://stealthswap.org/"
+fiatOnRamp: false
+categories:
+  - defi
+description: StealthEX is an instant cryptocurrency exchange for limitless swaps. It is free from registration and does not store user's funds on the platform.

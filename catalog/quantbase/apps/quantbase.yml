@@ -1,0 +1,9 @@
+id: "f699f0c3-fe77-4956-a608-0cf05c8f4443"
+companyName: "Quantbase"
+appName: "Quantbase"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.getquantbase.com/"
+fiatOnRamp: false
+categories:
+  - cefi
+description: Quantbase offers investing in index funds, crypto, NFTs, and more. It is the only SEC-registered robo-advisor for data-backed strategies and indexes.

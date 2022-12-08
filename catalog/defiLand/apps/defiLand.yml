@@ -1,0 +1,10 @@
+id: "3bd065be-722e-45ed-bb81-b8131bb42ec0"
+companyName: "DeFi Land"
+appName: "DeFi Land"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://defiland.app/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - nft_marketplaces
+description: DeFi Land is a multichain agriculture-simulation game created to gamify decentralized finance.

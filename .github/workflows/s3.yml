@@ -1,0 +1,42 @@
+name: DeployS3
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+
+
+  workflow_dispatch:
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  s3_push:
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Configure AWS Creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-region: us-east-1
+          role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/github-actions-service-role
+
+      - name: Upload file to S3
+        env:
+          S3_BUCKET_PROD: ${{ secrets.S3_BUCKET_PROD }}
+          S3_BUCKET_SMOKEBOX: ${{ secrets.S3_BUCKET_SMOKEBOX }}
+          S3_BUCKET_SANDBOX: ${{ secrets.S3_BUCKET_SANDBOX }}
+          S3_BUCKET_STG: ${{ secrets.S3_BUCKET_STG }}
+        run: |
+          aws s3 sync catalog s3://"$S3_BUCKET_PROD"/catalog/ --exclude "*" --include "*.yml" --include "*.yaml"
+          aws s3 sync catalog s3://"$S3_BUCKET_SMOKEBOX"/catalog/ --exclude "*" --include "*.yml" --include "*.yaml"
+          aws s3 sync catalog s3://"$S3_BUCKET_SANDBOX"/catalog/ --exclude "*" --include "*.yml" --include "*.yaml"
+          aws s3 sync catalog s3://"$S3_BUCKET_STG"/catalog/ --exclude "*" --include "*.yml" --include "*.yaml"
+          aws s3 sync . s3://"$S3_BUCKET_PROD"/catalog/ --exclude "*" --include "categories.yml"
+          aws s3 sync . s3://"$S3_BUCKET_SMOKEBOX"/catalog/ --exclude "*" --include "categories.yml"
+          aws s3 sync . s3://"$S3_BUCKET_SANDBOX"/catalog/ --exclude "*" --include "categories.yml"
+          aws s3 sync . s3://"$S3_BUCKET_STG"/catalog/ --exclude "*" --include "categories.yml"

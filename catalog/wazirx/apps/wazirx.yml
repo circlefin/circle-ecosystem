@@ -1,0 +1,9 @@
+id: "602d6e44-7d21-43a5-9dff-1d0cfe87be4f"
+companyName: "WazirX"
+appName: "WazirX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://wazirx.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: WazirX is India's leading crypto exchange. It built the world's first auto-order matching fiat P2P exchange and has done millions in volume.

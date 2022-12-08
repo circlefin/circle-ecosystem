@@ -1,0 +1,11 @@
+id: "39d3bbc9-e496-4274-ab2a-2abeadc88474"
+companyName: "Paraswap"
+appName: "Paraswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.paraswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: ParaSwap brings every exchange protocol into one platform. Its goal is empower users with competitive market prices and high liquidity.

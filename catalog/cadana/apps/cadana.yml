@@ -1,0 +1,9 @@
+id: "0c0aea6a-d598-4224-8316-5f0ea7764563"
+companyName: "Cadana"
+appName: "Cadana"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.cadanapay.com/"
+fiatOnRamp: true
+categories:
+  - payroll
+description: Cadana is a platform that allows African workers to get paid on demand. It transforms how businesses manage account receivables, payroll and more.

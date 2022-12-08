@@ -1,0 +1,9 @@
+id: "d2f97c69-5dd8-403c-b4d0-999eca90266d"
+companyName: "KuCoin"
+appName: "KuCoin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.kucoin.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: KuCoin is a global crypto exchange for numerous digital assets and cryptocurrencies. It has over 8 million registered users across 207 countries.

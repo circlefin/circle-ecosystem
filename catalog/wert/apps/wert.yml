@@ -1,0 +1,9 @@
+id: "98bc866e-9b95-4f74-997c-49a09d71c52d"
+companyName: "Wert"
+appName: "Wert"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://wert.io/"
+fiatOnRamp: true
+categories:
+  - remittances
+description: Wert offers a top-up module, that can be integrated to any website or mobile app and enables seamless purchasing of crypto.

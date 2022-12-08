@@ -1,0 +1,9 @@
+id: "9c41e4ad-91fb-4641-8006-a934e387e9c3"
+companyName: "O3 Swap"
+appName: "O3 Swap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://o3swap.com/"
+fiatOnRamp: false
+categories:
+  - defi
+description: O3Swap is a cross-chain aggregation protocol that gives users access to crypto financial services. It enables access to multichain liquidity sources.

@@ -1,0 +1,10 @@
+id: "85a489e8-f8fe-4824-842b-c1bdb10cbc6b"
+companyName: "Swapx"
+appName: "Swapx"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://swapx.co/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: SwapX is a launchpad platform which allows users to create and deploy tokens, NFTs, and presale contracts for the lowest competitive fees.

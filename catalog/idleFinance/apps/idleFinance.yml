@@ -1,0 +1,9 @@
+id: "362dd06c-3f10-4505-b5fb-1afade804292"
+companyName: "Idle Finance"
+appName: "Idle Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://idle.finance/#/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Idle Finance is a yield automation protocol that offers first-rate yield optimization and risk tranching strategies.

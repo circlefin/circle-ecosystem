@@ -1,0 +1,10 @@
+id: "00c91836-13a7-4d6a-8755-5858dea96c2c"
+companyName: "Stargate"
+appName: "Stargate Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://stargate.finance/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+  - investing_yield
+description: Stargate is a cross-chain liquidity transfer protocol that lets users and dapps transfer native assets between chains in a capital-efficient manner.

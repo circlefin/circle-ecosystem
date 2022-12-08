@@ -1,0 +1,11 @@
+id: "8c7638a5-5c53-4772-af13-4858c04cd71c"
+companyName: "SwapAll"
+appName: "SwapAll"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://swapall.io/"
+fiatOnRamp: true
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: SwapAll is designed to be a user-friendly DeFi transaction platform with no gas fees. It transferred from on-chain to state channel transactions.

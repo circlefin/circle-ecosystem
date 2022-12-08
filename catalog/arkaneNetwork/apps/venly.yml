@@ -1,0 +1,11 @@
+id: "4026c410-32c2-4b11-9222-85e2d3d1ac36"
+companyName: "Arkane Network"
+appName: "Venly"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.venly.io/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+  - gaming
+  - wallets
+description: Arkane makes it easy to create blockchain applications. Its SDK provides secure wallets solutions, blockchain infrastructure, and simple APIs.

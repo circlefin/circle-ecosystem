@@ -1,0 +1,9 @@
+id: "b12b0352-726b-4de8-b2ef-5a6c950cfb2a"
+companyName: "Fonbnk"
+appName: "Fonbnk"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.fonbnk.com/"
+description: Fonbnk is a Web3 company bringing Decentralized Finance (DeFi) to the masses across emerging markets.
+fiatOnRamp: true
+categories:
+  - cefi

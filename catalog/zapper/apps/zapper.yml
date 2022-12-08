@@ -1,0 +1,10 @@
+id: "048d4391-ea27-4115-9e97-01923c1b5e82"
+companyName: "Zapper"
+appName: "Zapper"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zapper.fi/"
+fiatOnRamp: false
+categories:
+  - defi
+  - wallets
+description: Zapper is a platform that manages all DeFi assets from one simple interface. It levels the playing field for DeFi newcomers and advanced investors.

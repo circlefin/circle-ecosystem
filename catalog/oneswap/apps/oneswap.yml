@@ -1,0 +1,9 @@
+id: "b2dd7fff-8ae1-42f8-a351-db6fb33d6fab"
+companyName: "Oneswap"
+appName: "Oneswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.oneswap.net/"
+fiatOnRamp: false
+categories:
+  - defi
+description: OneSwap is a fully decentralized exchange protocol on smart contract, with permission-free token listing and automated market making.

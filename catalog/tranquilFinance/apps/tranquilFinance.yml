@@ -1,0 +1,11 @@
+id: "596d4e20-9dde-42f6-a061-364104f97221"
+companyName: "Tranquil Finance"
+appName: "Tranquil Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.tranquil.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - gaming
+description: Tranquil Finance is the first algorithmic money market protocol on Harmony. Tranquil enables users to lend and borrow assets permissionlessly.

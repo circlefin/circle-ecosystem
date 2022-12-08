@@ -1,0 +1,12 @@
+id: "47b3c283-f0fc-4184-8331-2d1871e7ad9b"
+companyName: "Venus"
+appName: "Venus Protocol"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://venus.io/"
+dao: true
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: Venus is a DeFi lending platform that allows users to lend and borrow cryptocurrency based on collateralization.

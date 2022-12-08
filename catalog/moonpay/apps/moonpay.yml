@@ -1,0 +1,9 @@
+id: "2c10a132-ea65-4736-975f-e55151941264"
+companyName: "MoonPay"
+appName: "MoonPay"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.moonpay.com/"
+fiatOnRamp: true
+categories:
+  - remittances
+description: MoonPay is a fintech that provides crypto payment solutions. Its on-and-off-ramp products provides seamless conversion between fiat and crypto.

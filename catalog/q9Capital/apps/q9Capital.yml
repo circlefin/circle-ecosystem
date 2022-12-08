@@ -1,0 +1,9 @@
+id: "002b9560-803d-4fc8-969f-d258b568357b"
+companyName: "Q9 Capital"
+appName: "Q9 Capital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.q9capital.com/en"
+fiatOnRamp: false
+categories:
+  - cefi
+description: Q9 Capital is a cryptocurrency and digital asset platform that delivers investment solutions to individuals and wealth investors.

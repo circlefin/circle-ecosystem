@@ -1,0 +1,9 @@
+id: "df8ea56e-cd68-4a1f-af7e-da130054cf18"
+companyName: "Decaf"
+appName: "Decaf"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://decaf.so/"
+description: Decaf is a seamless mobile ordering and payment with card, cash, and crypto.
+fiatOnRamp: false
+categories:
+  - remittances

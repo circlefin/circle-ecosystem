@@ -1,0 +1,10 @@
+id: "356dac98-ecb5-4524-af60-9321987474f3"
+companyName: "StraitsX"
+appName: "StraitsX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.straitsx.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+  - banking
+description: StraitsX offers personal and business accounts to deposit, hold, and withdraw funds, as well as connect accounts to digital asset platforms.

@@ -1,0 +1,9 @@
+id: "635ef881-cc92-4823-ab3b-470b6fa69962"
+companyName: "Bitbuy"
+appName: "Bitbuy"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bitbuy.ca/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Bitbuy is a leading Canadian crypto trading platform. It offers liquidity across 10+ spot trading markets through its interfaces and OTC desk.

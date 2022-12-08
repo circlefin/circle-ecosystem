@@ -1,0 +1,10 @@
+id: "f7efe818-69e4-400f-a405-5b1252d47636"
+companyName: "CEX.IO"
+appName: "CEX.IO"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://cex.io/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: Established in 2013 as the first cloud mining provider, CEX.IO has become a multi-functional cryptocurrency exchange trusted by over half million users.

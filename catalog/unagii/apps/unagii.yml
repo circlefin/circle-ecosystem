@@ -1,0 +1,9 @@
+id: "bb7d27fc-a560-4427-963f-d648bc46487a"
+companyName: "Unagii"
+appName: "Unagii"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.unagii.com/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+description: Unagii is a DeFi yield platform to effortlessly grow digital asset portfolios. It aims to redefine the digital asset yield experience.

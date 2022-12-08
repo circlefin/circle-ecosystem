@@ -1,0 +1,9 @@
+id: "8b8f9f38-6316-4242-a09a-5bf426404782"
+companyName: "Kraken"
+appName: "Kraken"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.kraken.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Kraken is a crypto exchange providing spot and futures trading between BTC, ETH and 40+ other digital assets.

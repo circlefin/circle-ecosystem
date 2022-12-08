@@ -1,0 +1,10 @@
+id: "444d66e2-f761-40df-ae7f-559114196755"
+companyName: "ShibaSwap"
+appName: "ShibaSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://shibaswap.com/#/swap"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: ShibaSwap is a DEX that allows you to trade on a P2P basis. Swap tokens directly on ShibaSwap without the need for a counterparty.

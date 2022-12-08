@@ -1,0 +1,10 @@
+id: "c9bf65cd-039a-47f9-a1b7-7a7d0f4cc1b6"
+companyName: "ZKSpace"
+appName: "ZKSpace"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zks.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: ZKSpace is an AMM modeled Layer-2 DEX using ZK-Rollups technology – a type of Level-2 scalable solution on Ethereum based on zero knowledge proof.

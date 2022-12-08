@@ -1,0 +1,9 @@
+id: "1bc67205-dc78-4b4e-8753-6b7525471abc"
+companyName: "Goldfinch"
+appName: "Goldfinch"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://goldfinch.finance/"
+description: Goldfinch is a decentralized credit protocol that allows for crypto borrowing without crypto collateral.
+fiatOnRamp: true
+categories:
+  - defi

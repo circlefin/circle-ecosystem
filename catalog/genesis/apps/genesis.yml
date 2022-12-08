@@ -1,0 +1,9 @@
+id: "c2efc828-d9e3-47c0-9a1e-aab5d5d3903b"
+companyName: "Genesis"
+appName: "Genesis"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.gemini.com/"
+fiatOnRamp: true
+categories:
+  - investing_yield
+description: Genesis facilitates billions in digital currency trades, loans and transactions monthly. It combines Wall Street experience with crypto expertise.

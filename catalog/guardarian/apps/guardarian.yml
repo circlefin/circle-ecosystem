@@ -1,0 +1,9 @@
+id: "0197e945-3ecf-4372-bb51-b23adacad1bd"
+companyName: "Guardarian"
+appName: "Guardarian"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://guardarian.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Guardarian drives crypto adoption with services that make using crypto convenient. For B2B partners it provides fiat-crypto and crypto-fiat gateways.

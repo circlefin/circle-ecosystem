@@ -1,0 +1,9 @@
+id: "782c5983-5a15-4f44-b6ef-d53da6b9c8dc"
+companyName: "Collateralswap"
+appName: "Collateralswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://collateralswap.com/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Collateral Swap allows you to instanty swap the collateral of your vault. It requires connection to an Ethereum wallet or Ethereum-compatible browser.

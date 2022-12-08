@@ -1,0 +1,9 @@
+id: "f17b38d9-5da7-4450-a50e-c04c25a72f94"
+companyName: "Smilecoin"
+appName: "Smilecoin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://smilecoin.us/"
+fiatOnRamp: false
+categories:
+  - defi
+description: SMILE Coin is a Web3 SDK and dApp that allows platforms to send and receive funds and automatically enrolls players in the Smile Coin Network.

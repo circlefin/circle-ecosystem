@@ -1,0 +1,10 @@
+id: "b89f10cf-9701-4b82-afb6-95039c28ac1c"
+companyName: "BTC Markets"
+appName: "BTC Markets"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.btcmarkets.net/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - investing_yield
+description: BTC Markets is a liquid crypto exchange. The platform allows you to buy and sell cryptocurrenies in AUD. It is 100% Australian owned and operated.

@@ -1,0 +1,11 @@
+id: "d3294746-9ca7-4e7a-b91b-c376b153a56e"
+companyName: "Impermax"
+appName: "Impermax"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.impermax.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield
+  - borrowing_lending
+description: Impermax offers LP tokens lending services and gives one-click access to DeFi yield farming with no risk of loss through indirect liquidity.

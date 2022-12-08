@@ -1,0 +1,9 @@
+id: "016580ac-e399-47c7-98bb-ca71481ea3db"
+companyName: "Spaceswap"
+appName: "Spaceswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://spaceswap.app/"
+fiatOnRamp: false
+categories:
+  - defi
+description: SpaceSwap is an aggregator that aims to unite the most popular DeFi protocols in a one-stop station. It invented Shadow Staking technology

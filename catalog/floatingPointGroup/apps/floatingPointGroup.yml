@@ -1,0 +1,9 @@
+id: "b6e959be-15af-49b1-9d22-5cf0aa439b0d"
+companyName: "Floating Point Group"
+appName: "Floating Point Group"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.floating.group/"
+fiatOnRamp: true
+categories:
+  - cefi
+description: Floating Point Group is a MIT-born startup drastically simplifying the backend operations to deploy crypto-centric strategies at a meaningful scale.

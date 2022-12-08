@@ -1,0 +1,9 @@
+id: "710a7540-e69f-4146-9a0f-78d3680d1b43"
+companyName: "Lemonade Finance"
+appName: "Lemonade Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.lemonade.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Lemonade Finance is a digital bank for the African diaspora. It provides users with accounts in their country for personal and business banking needs.

@@ -1,0 +1,9 @@
+id: "ac7bdf1e-6922-4217-a063-2e45c2c49143"
+companyName: "NFTX"
+appName: "NFTX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nftx.io/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: NFTX is a protocol platform creating liquid markets for illiquid NFTs. It enables creation and trading of funds that are composable and fungible.

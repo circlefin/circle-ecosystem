@@ -1,0 +1,10 @@
+id: "bc950181-6138-42e3-93c4-9c8be87a491f"
+companyName: "Bybit"
+appName: "Bybit"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bybit.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - defi
+description: Founded in the British Virgin Islands, Bybit is one of the fastest-growing crypto derivatives exchanges, with more than a million registered users.

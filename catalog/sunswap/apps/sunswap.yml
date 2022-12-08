@@ -1,0 +1,10 @@
+id: "127dce27-719d-4a98-ae92-a838ad6cc699"
+companyName: "SunSwap"
+appName: "SunSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://sunswap.com/#/home"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: SunSwap is a TRON-based decentralized trading protocol for automated liquidity provision and an open financial market accessible to all.

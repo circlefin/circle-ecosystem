@@ -1,0 +1,9 @@
+id: "adbb0c8a-ea59-4edd-9b7a-7f24e62b71d0"
+companyName: "ZB"
+appName: "ZB"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.zb.com/en/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: The ZB.com exchange provides services for crypto-to-fiat and crypto-to-crypto trading pairs. It's among the top 20 cryptocurrency exchanges by volume.

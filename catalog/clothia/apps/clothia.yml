@@ -1,0 +1,9 @@
+id: "3d448d46-112c-49c8-b797-ac4a9d612a6d"
+companyName: "Clothia"
+appName: "Clothia"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://clothia.com/"
+description: Clothia is a U.S.-based, curated marketplace that showcases the best up-and-coming fashion designers from around the world.
+fiatOnRamp: false
+categories:
+  - ecommerce

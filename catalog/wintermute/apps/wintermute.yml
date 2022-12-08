@@ -1,0 +1,9 @@
+id: "96373952-afe3-4bec-ad72-d9b39d728bd0"
+companyName: "Wintermute"
+appName: "Wintermute"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.wintermute.com/"
+description: Wintermute is a massive global algorithmic market maker in digital assets, spanning hundreds of cryptocurrencies.
+fiatOnRamp: true
+categories:
+  - defi

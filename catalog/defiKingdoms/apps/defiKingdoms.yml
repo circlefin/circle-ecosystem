@@ -1,0 +1,10 @@
+id: "633e82fa-4d7c-476a-a411-5923abbeff38"
+companyName: "DeFi Kingdoms"
+appName: "DeFi Kingdoms"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://defikingdoms.com/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - defi
+description: A DeFi game built on the blockchain and designed with useable NFTs, DeFi Kingdoms enables players to swap tokens, mine liquidity, and much more.

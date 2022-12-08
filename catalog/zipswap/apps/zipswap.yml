@@ -1,0 +1,10 @@
+id: "0eecc94e-3547-4d0d-a94a-0a41bb7ef1d3"
+companyName: "Zipswap"
+appName: "Zipswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zipswap.fi/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Zipswap is a gas-efficient, optimistic rollup native swap. Based on a modified UniswapV2 codebase, it provides low fees on optimistic rollups.

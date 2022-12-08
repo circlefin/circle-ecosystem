@@ -1,0 +1,10 @@
+id: "351e04fc-43f3-466e-82c5-8c06d2b6aa09"
+companyName: "Tokocrypto"
+appName: "Tokocrypto"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.tokocrypto.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: TokoCrypto is building a TokoScape Ecosystem to spread financial freedom to Indonesia’s crypto ecosystem.

@@ -1,0 +1,9 @@
+id: "abe08a9b-ff1b-4569-968b-3ea294b26d31"
+companyName: "NEAR"
+appName: "Rainbow Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://near.org/bridge/"
+fiatOnRamp: false
+categories:
+  - defi
+description: NEAR empowers millions to invent and explore. Build decentralized apps on a platform that features low fees, high speeds, and infinite scalability.

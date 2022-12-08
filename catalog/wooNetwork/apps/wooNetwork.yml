@@ -1,0 +1,9 @@
+id: "342d8bd8-e04b-4fed-b15d-2e1e226a0af2"
+companyName: "WOO Network"
+appName: "WOO Network"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://woo.org/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: WOO Network is a deep liquidity network connecting traders, exchanges, institutions, and DeFi platforms.

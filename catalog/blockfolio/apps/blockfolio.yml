@@ -1,0 +1,9 @@
+id: "72818a43-17ad-40cf-baba-4812843d8436"
+companyName: "Blockfolio"
+appName: "Blockfolio"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://blockfolio.com/"
+description: Blockfolio is the a free Bitcoin & cryptocurrency portfolio tracker app, with support for 10,000+ top cryptocurrencies.
+fiatOnRamp: true
+categories:
+  - trading_exchanges

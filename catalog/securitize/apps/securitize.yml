@@ -1,0 +1,10 @@
+id: "682e8d79-9150-4ae6-a95d-54baffeb281d"
+companyName: "Securitize"
+appName: "Securitize"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://securitize.io/"
+fiatOnRamp: true
+categories:
+  - defi
+  - investing_yield
+description: Securitize makes it easy to manage and trade digital securities within designated capital markets for equity, funds, fixed income, and real estate.

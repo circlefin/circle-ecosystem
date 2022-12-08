@@ -1,0 +1,9 @@
+id: "da99048a-4740-44dd-9461-79005b15961a"
+companyName: "Arbitrum"
+appName: "Arbitrum Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bridge.arbitrum.io/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Arbitrum powers fast, private, decentralized applications. It is an optimistic rollup built to scale Ethereum.

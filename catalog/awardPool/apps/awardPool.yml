@@ -1,0 +1,10 @@
+id: "1576eb5d-66a7-448d-8169-6847208aa70c"
+companyName: "Award Pool"
+appName: "Award Pool"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://awardpool.com/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+  - remittances
+description: With Award Pool, users participate in challenges to earn points, prizes, and customizable NFT rewards through an easy-to-use platform.

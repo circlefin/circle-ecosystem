@@ -1,0 +1,11 @@
+id: "b73fffb6-f32a-4482-a36f-79fb4447c4f1"
+companyName: "BitGo"
+appName: "BitGo"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitgo.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+description: BitGo is the largest processor of on-chain BTC transactions, processing 15% of global BTC transactions and $15b monthly across all cryptocurrencies.

@@ -1,0 +1,10 @@
+id: "acdd5797-122c-41d2-8087-589c8e8db690"
+companyName: "Bitrue"
+appName: "Bitrue"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitrue.com/home/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - investing_yield
+description: Bitrue is a software application that offers bitcoin, investments, loans, trading, XRP, Ethereum, and asset management solutions.

@@ -1,0 +1,11 @@
+id: "e0938abc-ca29-41cc-8db9-3e2b5a6f19af"
+companyName: "SpiritSwap"
+appName: "SpiritSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://swap.spiritswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: The SpiritSwap protocol adds incentives for Fantom network participants by introducing revenue sharing through the classic AMM model.

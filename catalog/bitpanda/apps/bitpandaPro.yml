@@ -1,0 +1,9 @@
+id: "1748cf59-acbd-4d72-b878-c6358405e5fb"
+companyName: "Bitpanda"
+appName: "Bitpanda Pro"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://pro.bitpanda.com/en"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Bitpanda Pro offers professional trading, price matching and automated clearing, settlement and netting. It's for seasoned traders and institutions.

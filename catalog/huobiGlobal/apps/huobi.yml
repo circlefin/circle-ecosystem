@@ -1,0 +1,9 @@
+id: "f05ac6a7-99c0-4a47-80a3-d60b77f48ba1"
+companyName: "Huobi Global"
+appName: "Huobi"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.huobi.com/en-us/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Huobi Global is a global blockchain asset financial services provider, including exchange, trade, wallet, and storage.

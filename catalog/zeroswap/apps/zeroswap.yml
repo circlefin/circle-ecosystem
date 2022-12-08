@@ -1,0 +1,10 @@
+id: "c91ba1c2-7da3-41c0-9d08-80f30e771f25"
+companyName: "Zeroswap"
+appName: "Zeroswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://zeroswap.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Zeroswap is a multichain-compatible decentralised exchange aggregator protocol focused on making zero-fee transactions possible.

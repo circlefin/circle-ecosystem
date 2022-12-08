@@ -1,0 +1,9 @@
+id: "df7727ec-95f5-4528-8ece-fec391d863c3"
+companyName: "iSunOne"
+appName: "iSunOne"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.isun1.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+description: iSunOne provides a safe bitcoin wallet and vault, and combines digital finance with social elements — Chat , Gift , Pay, Earn in a few clicks.

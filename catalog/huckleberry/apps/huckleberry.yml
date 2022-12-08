@@ -1,0 +1,11 @@
+id: "aac3a6bd-4cb1-4be5-95b3-9de42bf02113"
+companyName: "Huckleberry"
+appName: "Huckleberry"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.huckleberry.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Huckleberry is a community driven AMM crosschain decentralized exchange and lending platform on Moonriver and Clover.

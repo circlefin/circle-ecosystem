@@ -1,0 +1,10 @@
+id: "90e24e61-238e-44dc-929e-ce6c016cc744"
+companyName: "Coinhako"
+appName: "Coinhako"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.coinhako.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: CoinHako.com is a Singapore-based cryptocurrency wallet service that aims to provide non-technical users with the basic functions of cryptocurrency.

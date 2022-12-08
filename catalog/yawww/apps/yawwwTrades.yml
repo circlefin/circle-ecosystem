@@ -1,0 +1,9 @@
+id: "2720593f-5990-4070-a4b9-ca6c41a1209e"
+companyName: "Yawww"
+appName: "Yawww Trades"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.yawww.io/trades/listings"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+description: Yawww is the hub for trading Solana NFTs. Yawww allows users to buy, sell, trade, stake, and collateralize NFTs for loans in a P2P format.

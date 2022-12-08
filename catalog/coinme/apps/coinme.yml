@@ -1,0 +1,9 @@
+id: "b76a06bd-8c31-49b7-b3a0-a7f61b0d3f02"
+companyName: "Coinme"
+appName: "Coinme"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://coinme.com/"
+fiatOnRamp: true
+categories:
+  - remittances
+description: Coinme operates the largest licensed cryptocurrency cash exchange in the U.S. Founded in 2014, it powers thousands of physical locations in 48 states.

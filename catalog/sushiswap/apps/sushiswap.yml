@@ -1,0 +1,11 @@
+id: "4eae222c-310f-43cc-b042-a202658269a9"
+companyName: "Sushiswap"
+appName: "Sushiswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.sushi.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: SushiSwap is a P2P DEX that allows users to swap tokens, provide liquidity, and more. It offers multichain AMM, staking, and yield generation.

@@ -1,0 +1,9 @@
+id: "5b1e3ef4-6312-4d52-a1ff-ada515b10b68"
+companyName: "Ramp"
+appName: "Ramp"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://ramp.network/"
+description: Ramp is a finance automation platform that eliminates outdated software that wastes time and promotes complicated points programs.
+fiatOnRamp: true
+categories:
+  - remittances

@@ -1,0 +1,9 @@
+id: "4e50823d-1144-4269-81fa-bf8bf9d97c6f"
+companyName: "OurSong"
+appName: "OurSong"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.oursong.com/"
+description: OurSong is a social commerce platform where everyone can turn everyday creativity into tradable assets and build super fan communities.
+fiatOnRamp: true
+categories:
+  - nft_marketplaces

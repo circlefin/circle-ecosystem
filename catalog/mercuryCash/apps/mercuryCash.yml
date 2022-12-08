@@ -1,0 +1,9 @@
+id: "adb94188-7272-4742-ad80-faf18d798122"
+companyName: "Mercury Cash"
+appName: "Mercury Cash"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.mercury.cash/"
+fiatOnRamp: true
+categories:
+  - banking
+description: Mercury Cash is a cash and crypto management solution designed for fortune 500 companies, providing access to centralized and decentralized finance.

@@ -1,0 +1,9 @@
+id: "2534c2f9-3716-4b9f-bc33-21550b366f5c"
+companyName: "Stripe"
+appName: "Connect"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://stripe.com/connect"
+fiatOnRamp: true
+categories:
+  - remittances
+description: Stripe builds economic infrastructure for the internet. Businesses of all sizes use it to accept online payments and run complex global operations.

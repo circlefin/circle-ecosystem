@@ -1,0 +1,10 @@
+id: "702118f8-33d6-4f69-b969-849cb23f8def"
+companyName: "Anyswap"
+appName: "Anyswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://anyswap.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: AnySwap, now known as Multichain, is a cross-chain router protocol that boasts transaction speeds within 100 seconds and no slippage swap.

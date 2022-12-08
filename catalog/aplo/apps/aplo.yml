@@ -1,0 +1,11 @@
+id: "38cd9814-af2c-4c85-a875-04c67bf70dee"
+companyName: "Aplo"
+appName: "Aplo"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.aplo.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Aplo is an EU-licesned broker that connects leading institutional investors to the crypto universe. Its financial products are easy to implement.

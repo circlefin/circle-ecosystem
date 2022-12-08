@@ -1,0 +1,9 @@
+id: "a18f922e-9ff1-48c6-a99e-4c09f2cf368c"
+companyName: "Endaoment"
+appName: "Endaoment"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://endaoment.org/"
+description: Endaoment is a public charity that encourages and manages the giving of digital assets and provides other philanthropic financial services.
+fiatOnRamp: false
+categories:
+  - charity

@@ -1,0 +1,9 @@
+id: "f9d303f9-0cc3-4919-8793-8a129f353683"
+companyName: "Algorand"
+appName: "MyAlgo Wallet"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://wallet.myalgo.com"
+fiatOnRamp: true
+categories:
+  - wallets
+description: Algorand addresses blockchain scaling challenges with rapid user consensus, enabling small transactions, regardless of volume or number of users.

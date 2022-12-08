@@ -1,0 +1,9 @@
+id: "a18abe22-49e2-4b4b-b9dc-24669f072f71"
+companyName: "Giottus"
+appName: "Giottus"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://giottus.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Giottus is India's leading crypto exchange to buy, sell, and trade Bitcoin (BTC), Ripple (XRP), Ethereum (ETH), Tron (TRX), Bitcoin Cash (BCH).

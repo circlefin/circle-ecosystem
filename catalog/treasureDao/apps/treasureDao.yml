@@ -1,0 +1,11 @@
+id: "830a8625-0f68-499c-bad6-707209243512"
+companyName: "Treasure DAO"
+appName: "Treasure DAO"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.treasure.lol/"
+dao: true
+fiatOnRamp: false
+categories:
+  - gaming
+  - nft_marketplaces
+description: Treasure is the decentralized video game console connecting games and communities together through imagination, $MAGIC, and NFTs.

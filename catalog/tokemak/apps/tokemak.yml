@@ -1,0 +1,12 @@
+id: "0d3cb226-76ea-45bc-be0a-64c7034c49d0"
+companyName: "Tokemak"
+appName: "Tokemak"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.tokemak.xyz/"
+dao: true
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Tokemak allows users to generate and control liquidity with token reactors. It provides reliable liquidity that enables complex products to flourish.

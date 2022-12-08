@@ -1,0 +1,9 @@
+id: "c02450ea-763e-4534-981c-8f1fe9e92267"
+companyName: "Abraxas"
+appName: "Abraxas"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.abraxascm.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: Abraxas Capital Management is a boutique asset management company managing a suite of funds and tailored managed accounts.

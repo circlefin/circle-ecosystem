@@ -1,0 +1,9 @@
+id: "72466b72-84a8-4a84-ab05-57a797b5ff2c"
+companyName: "Messari"
+appName: "Messari"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://messari.io/"
+description: Founded in 2018, Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto/Web3 with confidence.
+fiatOnRamp: false
+categories:
+  - defi

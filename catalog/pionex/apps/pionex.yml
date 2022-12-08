@@ -1,0 +1,9 @@
+id: "d37e62eb-d0e3-4f1b-8c11-b179a2425be6"
+companyName: "Pionex"
+appName: "Pionex"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.pionex.com/en-US/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: 'Pionex provides hybrid crypto trading services with 12 trading bots. It provides 24/7 autonomous trading in the cloud, and is powerful and secure. '

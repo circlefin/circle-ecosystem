@@ -1,0 +1,9 @@
+id: "7ed11d03-54cf-4ff9-b482-b10b0734ff8a"
+companyName: "WhiteBIT"
+appName: "WhiteBIT"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://whitebit.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: WhiteBIT provides a secure and easy digital asset trading platform. It offers an intuitive UI with chart tools, fiat-to-crypto trading, and more.

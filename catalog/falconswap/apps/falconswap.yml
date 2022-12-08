@@ -1,0 +1,9 @@
+id: "e05c377b-165d-4463-ad19-e6ea8fdaf950"
+companyName: "Falconswap"
+appName: "Falconswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.falconswap.com/"
+fiatOnRamp: false
+categories:
+  - defi
+description: 'FalconSwap is a low gas protocol for decentralized token swaps and token pools with 2-3x lower gas fees. '

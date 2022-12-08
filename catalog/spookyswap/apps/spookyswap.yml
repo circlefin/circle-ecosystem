@@ -1,0 +1,11 @@
+id: "b67c287a-6a78-480e-bbaa-aaf054049514"
+companyName: "SpookySwap"
+appName: "SpookySwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://spookyswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: SpookySwap is an all in one decentralized exchange for leveraging diversified funds across ecosystems, with the speed of Fantom Opera.

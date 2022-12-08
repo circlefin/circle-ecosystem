@@ -1,0 +1,10 @@
+id: "d7b273a1-f7cd-40eb-93c4-01c9fc48f957"
+companyName: "BitMart"
+appName: "BitMart"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitmart.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+  - investing_yield
+description: A globally integrated digital asset trading platform, BitMart provides diversified systems such as spot trading, futures contract trading, and more.

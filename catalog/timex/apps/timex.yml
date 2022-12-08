@@ -1,0 +1,10 @@
+id: "5a7e18fc-8d9f-4214-b98d-77aa605f96b2"
+companyName: "TimeX"
+appName: "TimeX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://timex.io/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: Timex allows you to trade numerous cryptocurrencies and withdraw money to your bank account. TimeX is a hybrid crypto exchange from Australia.

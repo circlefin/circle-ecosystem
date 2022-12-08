@@ -1,0 +1,9 @@
+id: "35c4e604-25bd-4cfb-9968-f8fb0ca281a8"
+companyName: "Maiar"
+appName: "Maiar"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://maiar.exchange/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: Maiar is a digital wallet and global payments app that allows you to exchange and securely store money on your mobile phone.

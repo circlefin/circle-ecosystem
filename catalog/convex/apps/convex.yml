@@ -1,0 +1,9 @@
+id: "cd47452b-a6b6-41c3-b8a8-3c6ffd32ada5"
+companyName: "Convex"
+appName: "Convex"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.convexfinance.com/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Convex is a platform that boosts rewards for CRV stakers and liquidity providers through a simple and user-friendly interface.

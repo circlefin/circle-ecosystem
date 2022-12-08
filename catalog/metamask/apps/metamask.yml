@@ -1,0 +1,9 @@
+id: "55fda672-24da-49d8-aafb-111b31ec3203"
+companyName: "MetaMask"
+appName: "MetaMask"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://metamask.io/"
+fiatOnRamp: false
+categories:
+  - wallets
+description: MetaMask is a crypto wallet for users to manage digital assets with a browser extension or mobile app. It features a key vault, wallet, and exchange.

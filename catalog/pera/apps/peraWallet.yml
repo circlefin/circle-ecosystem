@@ -1,0 +1,9 @@
+id: "0379db88-3a13-4f5c-83b5-3d4d72977f5b"
+companyName: "Pera"
+appName: "Pera Wallet"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://perawallet.app/"
+fiatOnRamp: false
+categories:
+  - wallets
+description: Pera is a solution to revive on-chain trading volume in selected liquidity pools, all in a fashion that yields reward to traders.

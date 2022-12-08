@@ -1,0 +1,10 @@
+id: "0997eb7e-048e-42a0-9c87-17b7d94b7e8e"
+companyName: "Tinyman"
+appName: "Tinyman"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://tinyman.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Tinyman is a decentralized trading protocol that utilizes the fast and secure framework of Algorand, creating an open and safe marketplace for all.

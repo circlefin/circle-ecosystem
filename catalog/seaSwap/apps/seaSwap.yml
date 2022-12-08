@@ -1,0 +1,10 @@
+id: "f49e3084-8eae-47ab-beca-afaa15f467e8"
+companyName: "Sea Swap"
+appName: "Sea Swap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://seaswap.net/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield
+description: SeaSwap is a fork of the Uniswap protocol for exchanging ERC-20 tokens. It eliminates trusted intermediaries and unnecessary forms of rent extraction.

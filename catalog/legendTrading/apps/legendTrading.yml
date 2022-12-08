@@ -1,0 +1,9 @@
+id: "dce19100-d9d4-43d2-ae41-1dcabc182fa2"
+companyName: "Legend Trading"
+appName: "Legend Trading"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://legendtrading.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: Legend Trading is a cryptocurrency OTC desk that offers deep liquidity and competitive quotes for counterparties to execute large orders.

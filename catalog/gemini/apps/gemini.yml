@@ -1,0 +1,9 @@
+id: "4c9e9274-a5d4-4bc4-83e3-a2ab81ae721c"
+companyName: "Gemini"
+appName: "Gemini"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.gemini.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Gemini, a next-gen crypto exchange and custodian, allows you to buy, sell, and store digital assets. It was founded by Cameron and Tyler Winklevoss.

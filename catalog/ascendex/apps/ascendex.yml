@@ -1,0 +1,10 @@
+id: "b0b37921-444e-4b9b-835d-94604f911af8"
+companyName: "AscendEX"
+appName: "AscendEX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://ascendex.com/en/global-digital-asset-platform"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+  - investing_yield
+description: AscendEX is global operator of digital asset exchanges for diverse groups of clients - from retail to institutions.

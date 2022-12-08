@@ -1,0 +1,11 @@
+id: "0dd87cbc-46db-43cf-9925-d54bdf02048d"
+companyName: "Yield Yak"
+appName: "Zeroswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://yieldyak.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Yield Yak is a cryptocurrency website that provides tools for DeFi users. It is an auto-compound platform that uses yield farming rewards.

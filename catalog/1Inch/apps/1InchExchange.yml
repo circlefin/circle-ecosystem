@@ -1,0 +1,10 @@
+id: "27b53dba-0c21-4cd7-8831-54e1433d7373"
+companyName: "1inch"
+appName: "1inch Exchange"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://app.1inch.io/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: 1inch is a DEX aggregator that pulls prices across a range of DEXs. The synergy of 1inch protocols enables lucrative, fast and protected operations.

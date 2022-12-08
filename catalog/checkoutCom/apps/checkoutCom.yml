@@ -1,0 +1,9 @@
+id: "4a1d9e78-da50-4e0e-a0a2-7d50a8f30d4a"
+companyName: "Checkout.com"
+appName: "Checkout.com"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.checkout.com/"
+description: Checkout.com is a global payments solution provider on a mission to enable businesses and their communities to thrive in the digital economy
+fiatOnRamp: true
+categories:
+  - remittances

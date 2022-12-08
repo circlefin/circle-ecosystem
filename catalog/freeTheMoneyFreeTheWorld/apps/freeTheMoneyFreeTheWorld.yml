@@ -1,0 +1,9 @@
+id: "c5a2dae0-bc03-4737-8fed-742fa61407f3"
+companyName: "Free the Money Free the World"
+appName: "Free the Money Free the World"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://fmfw.io/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Free The Money, Free The World teaches people about money, fiat currency's history, and how Bitcoin is the foundation for a better economic paradigm.

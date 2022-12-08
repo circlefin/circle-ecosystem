@@ -1,0 +1,10 @@
+id: "03e114d0-30fa-4251-8ba3-87c6babfe486"
+companyName: "Moneymie"
+appName: "Moneymie"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.moneymie.com/"
+fiatOnRamp: true
+categories:
+  - banking
+  - remittances
+description: Moneymie is a digital bank and transaction platform offering USD payments, international wire transfers, and mobile apps services.

@@ -1,0 +1,10 @@
+id: "c34bcc4a-97eb-4c54-983e-7baad7010e20"
+companyName: "TRiBL"
+appName: "TRiBL"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://jointribl.com/"
+fiatOnRamp: true
+categories:
+  - remittances
+  - wallets
+description: TRiBL combines messaging and payments to connect groups across the Diaspora. It powers frictionless exchange of digital goods, art, and currencies.

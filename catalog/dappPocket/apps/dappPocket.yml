@@ -1,0 +1,9 @@
+id: "0727100a-92dd-4451-bb4e-57fdd836e366"
+companyName: "Dapp Pocket"
+appName: "Dapp Pocket"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.dapppocket.io/"
+fiatOnRamp: false
+categories:
+  - wallets
+description: Dapp Pocket is a blockchain wallet born for Dapp lovers. The platform provides a browser where you can search for Dapps on your mobile device.

@@ -1,0 +1,9 @@
+id: "e5310963-2080-49f1-b97c-007c450de476"
+companyName: "Gate.Io"
+appName: "Gate.Io"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.gate.io/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Gate.io is a crypto exchange with 1400+ cryptocurrencies and stablecoins. It is one of the earliest and largest crypto exchanges.

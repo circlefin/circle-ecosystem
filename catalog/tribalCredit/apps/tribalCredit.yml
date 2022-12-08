@@ -1,0 +1,9 @@
+id: "bbc70ee0-dc4b-46f5-bae4-e3749e0c7a40"
+companyName: "Tribal Credit"
+appName: "Tribal Credit"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.tribal.credit/"
+fiatOnRamp: false
+categories:
+  - banking
+description: Tribal is a payments and financing platform using emerging technologies to provide SMBs in emerging markets better access to financial services.

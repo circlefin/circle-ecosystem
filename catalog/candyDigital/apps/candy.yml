@@ -1,0 +1,9 @@
+id: "b8eec809-e1d1-4f4c-8c84-12491cefd904"
+companyName: "Candy Digital"
+appName: "Candy"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.candy.com/"
+fiatOnRamp: true
+categories:
+  - nft_marketplaces
+description: Candy Digital is an NFT company that allows fans to buy, sell, and trade officially licensed NFTs.

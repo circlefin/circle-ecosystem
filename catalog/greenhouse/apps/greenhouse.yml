@@ -1,0 +1,11 @@
+id: "b6b79cfc-80dd-45eb-8fa0-ab970b67cf50"
+companyName: "Greenhouse"
+appName: "Greenhouse"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://greenhousedex.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Greenhouse offers a decentralized exchange, yield farms, liquidity pools, bridges, and the ability to stake its native token, GREEN.

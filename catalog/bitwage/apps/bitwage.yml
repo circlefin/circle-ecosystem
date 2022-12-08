@@ -1,0 +1,9 @@
+id: "db45969a-8c8a-4e92-a5b6-e849693af37e"
+companyName: "Bitwage"
+appName: "Bitwage"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitwage.com/"
+fiatOnRamp: true
+categories:
+  - payroll
+description: Bitwage offers payment services for companies and employees. Workers can sign up for direct deposit accounts to get paid from any company.

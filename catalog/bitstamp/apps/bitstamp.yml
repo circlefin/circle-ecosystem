@@ -1,0 +1,10 @@
+id: "ed4ad923-7910-42a9-bc20-93501d52d6fc"
+companyName: "Bitstamp"
+appName: "Bitstamp"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitstamp.net/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: Bitstamp owns and operates a digital currency marketplace that allows companies and individuals to buy and sell Bitcoin, Litecoin, Ethereum, and more.

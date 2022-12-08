@@ -1,0 +1,9 @@
+id: "8abf92d1-fed7-454a-ae41-d481875580be"
+companyName: "Alterdice"
+appName: "Alterdice"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://alterdice.com/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: AlterDice is a trading platform that provides a secure, reliable, and stable environment for digital assets trading.

@@ -1,0 +1,10 @@
+id: "0c590efc-f8c4-46ab-9532-fbc640aa78e3"
+companyName: "Aave"
+appName: "Aave"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://aave.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - borrowing_lending
+description: Aave is an open-source liquidity protocol for decentralized lending and borrowing. It mints ERC20-compliant aTokens at a 1:1 ratio to supplied assets.

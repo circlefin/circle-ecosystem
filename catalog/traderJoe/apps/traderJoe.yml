@@ -1,0 +1,11 @@
+id: "03b8a6ef-1ff9-45e4-b46f-e38618dca630"
+companyName: "Trader Joe"
+appName: "Trader Joe"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://traderjoexyz.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Trader Joe provides a true one-stop-shop DeFi experience. It is a platform for trading, staking, farming, lending, borrowing, and leveraging.

@@ -1,0 +1,10 @@
+id: "b1cf49ca-5be1-4d69-be02-3e6783dff2ec"
+companyName: "ACE"
+appName: "ACE"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://ace.io/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: Ace provides creators with their own membership tokens so they can take control of their craft and collect royalties and revenue on digital content.

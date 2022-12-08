@@ -1,0 +1,11 @@
+id: "1acb277c-e910-43c7-b85b-320da2d7f88e"
+companyName: "Bancor Network"
+appName: "Bancor"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://home.bancor.network/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Bancor Protocol™ is a standard for the creation of Smart Tokens™, cryptocurrencies with built-in convertibility through their smart contracts.

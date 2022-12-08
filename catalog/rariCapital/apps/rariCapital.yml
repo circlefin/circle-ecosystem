@@ -1,0 +1,11 @@
+id: "b874868b-78f2-4c9b-a42c-9bc9156150ff"
+companyName: "Rari Capital"
+appName: "Rari Capital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://rari.capital/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: 'Rari Capital aims to increase market efficiencies in the crypto-sphere. Its first product rebalances holdings across protocols to deliver high yield. '

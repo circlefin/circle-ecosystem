@@ -1,0 +1,9 @@
+id: "5d3e5e62-886c-4f02-8728-ce923a8190cb"
+companyName: "KuSwap"
+appName: "KuSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://kuswap.io/#/"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: 'KuSwap is a decentralized exchange on KuCoin Community Chain (KCC). Swap, lend, farm, add liquidity to your tokens on KCC, and much more. '

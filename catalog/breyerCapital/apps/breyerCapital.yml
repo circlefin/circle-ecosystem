@@ -1,0 +1,9 @@
+id: "ff7d6368-3566-4214-b7bc-0bc10e4550f2"
+companyName: "Breyer Capital"
+appName: "Breyer Capital"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://breyercapital.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Breyer Capital is a premier global VC and PE investor focused on catalyzing high-impact entrepreneurs in the United States and China.

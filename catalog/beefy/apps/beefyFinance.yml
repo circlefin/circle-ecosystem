@@ -1,0 +1,10 @@
+id: "57da313c-389a-4bbe-b718-c45bc7d4bf60"
+companyName: "Beefy"
+appName: "Beefy Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://beefy.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield
+description: Beefy is a decentralized, multichain yield optimizer that allows users to earn compound interest on crypto. It aims to earn users the highest APYs.

@@ -1,0 +1,11 @@
+id: "23004163-db1d-4736-81f1-046ac0f2175b"
+companyName: "Serum"
+appName: "Serum"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.projectserum.com/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Serum is a completely on-chain cryptocecosystem with trustless trading. Created by Project Serum and a consortium of crypto trading and DeFi experts.

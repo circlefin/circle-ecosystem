@@ -1,0 +1,10 @@
+id: "c3c46dad-cea3-4382-9d9b-d23e237e9e31"
+companyName: "Swapship"
+appName: "Swapship"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://swapship.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Swapship is an attack-proof farming platform with several tokens, including NFTs. RTC is the core protocol of the Swapship ecosystem.

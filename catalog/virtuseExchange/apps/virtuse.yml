@@ -1,0 +1,10 @@
+id: "5be550e8-0e20-4fe2-a943-5b0284e30470"
+companyName: "Virtuse Exchange"
+appName: "Virtuse"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.virtuse.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: Virtuse is a leading player in the Central Europe crypto industry. It bridges the divide between traditional financial and digital currencies.

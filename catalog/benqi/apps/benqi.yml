@@ -1,0 +1,9 @@
+id: "f74d7acf-27bb-4016-b0ed-e54b5d1330a9"
+companyName: "BENQI"
+appName: "BENQI"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://benqi.fi/"
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+description: Benqui is a decentralized finance liquidity market protocol that is built on the Avalanche blockchain.

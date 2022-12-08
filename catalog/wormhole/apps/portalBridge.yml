@@ -1,0 +1,9 @@
+id: "849f2603-fd9f-4517-8f2b-88b75eef37cb"
+companyName: "Wormhole"
+appName: "Portal Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://portalbridge.com/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Wormhole is a decentralized, universal message-passing protocol that connects to multiple blockchains. It allows different blockchains to communicate.

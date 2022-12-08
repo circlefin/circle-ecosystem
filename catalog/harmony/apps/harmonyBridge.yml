@@ -1,0 +1,9 @@
+id: "ea4bfb55-d008-42d7-9dc4-24a02de5699a"
+companyName: "Harmony"
+appName: "Harmony Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bridge.harmony.one"
+fiatOnRamp: false
+categories:
+  - defi
+description: Harmony is a fast and open blockchain for decentralized applications. Its protocol has achieved secure and random state sharding.

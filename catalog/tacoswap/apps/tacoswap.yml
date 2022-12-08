@@ -1,0 +1,12 @@
+id: "68fb7deb-9b05-4709-938b-70a509dd675d"
+companyName: "Tacoswap"
+appName: "Tacoswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.tacoswap.io/swap"
+dao: true
+fiatOnRamp: true
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: TACOSwap is a DEX, DeFi protocol and yield farm. It has added a fiat on-ramp and off-ramp and rewards for liquidity providers.

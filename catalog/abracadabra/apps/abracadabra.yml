@@ -1,0 +1,11 @@
+id: "1de91a87-1681-4011-89fa-69cab16b80db"
+companyName: "Abracadabra"
+appName: "Abracadabra"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://abracadabra.money/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: Abracadabra specializes in making interest-bearing assets liquid. It allows you to use your favorite digital asset as collateral to borrow $MIM.

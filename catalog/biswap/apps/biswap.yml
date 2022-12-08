@@ -1,0 +1,11 @@
+id: "92571bba-6d94-4c53-97b4-5ef931d4f0b4"
+companyName: "Biswap"
+appName: "Biswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://biswap.org/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: BitSwap is a bitclout exchange that verifies transactions automatically. Specifically, it is a core module of IPFS for exchanging blocks of data.

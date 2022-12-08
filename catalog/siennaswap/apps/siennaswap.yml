@@ -1,0 +1,10 @@
+id: "7138a8c9-4fd3-4376-8028-d89fe90a16d1"
+companyName: "SiennaSwap"
+appName: "SiennaSwap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://sienna.network/swap/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Sienna is a privacy-first and cross-chain DeFi platform where you can privately swap, lend and convert your tokens into their private equivalent.

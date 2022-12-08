@@ -1,0 +1,12 @@
+id: "e95dbc09-138a-4932-a483-e500df2410b5"
+companyName: "Solfarm"
+appName: "Tulip Garden"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://tulip.garden/"
+dao: true
+fiatOnRamp: false
+categories:
+  - borrowing_lending
+  - defi
+  - investing_yield
+description: Solfarm, now known as Tulip, is a yield aggregator running on the Solana blockchain that offers customers auto-compounding vault strategies.

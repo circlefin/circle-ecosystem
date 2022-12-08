@@ -1,0 +1,9 @@
+id: "c820ea35-6b13-4fc3-b18f-35376f8216b9"
+companyName: "Forte"
+appName: "Forte"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.forte.io/"
+fiatOnRamp: false
+categories:
+  - nft_marketplaces
+description: Forte is building economic technology for games that is secure, easy to use, and compliant. Its blockchain platform enables community economics.

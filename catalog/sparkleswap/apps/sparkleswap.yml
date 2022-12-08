@@ -1,0 +1,10 @@
+id: "767272e1-9e42-45ce-a222-f3329c60754d"
+companyName: "Sparkleswap"
+appName: "Sparkleswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://sparkleswap.finance/"
+fiatOnRamp: false
+categories:
+  - defi
+  - investing_yield
+description: The first app to let you buy BTC with USD into a Lightning Network wallet, Sparkleswap is a decentralized market making protocol powered by Uniswap.

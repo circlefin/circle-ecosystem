@@ -1,0 +1,9 @@
+id: "f218d80a-aa1b-4a38-9cc6-fdb6d0a3c8bd"
+companyName: "Gnosis Safe"
+appName: "Gnosis Safe"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://gnosis-safe.io/"
+fiatOnRamp: false
+categories:
+  - wallets
+description: Gnosis Safe is a trusted platform for managing digital assets on the Ethereum blockchain. It offers a multi-signature smart contract wallet.

@@ -1,0 +1,9 @@
+id: "ada56eb8-b7f3-4eeb-ae02-b38aaa939cad"
+companyName: "BitoPro"
+appName: "BitoPro"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.bitopro.com/ns/home"
+fiatOnRamp: false
+categories:
+  - trading_exchanges
+description: BitoPro is a crypto exchange platform registered in Taiwan. It offers various solutions, like digital wallets, business apps, auditing, and more.

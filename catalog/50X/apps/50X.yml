@@ -1,0 +1,10 @@
+id: "70b5cbc2-8a14-42ce-892c-524959bdd0ee"
+companyName: "50x"
+appName: "50x"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://50x.com/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: 50x is the first crypto exchange to offer Any2Any trading, meaning you can trade any trading pair directly with full support.

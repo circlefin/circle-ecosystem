@@ -1,0 +1,11 @@
+id: "7900e7c3-3f7e-4f19-b8c1-b5f1ec3657f0"
+companyName: "Quickswap"
+appName: "Quickswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://quickswap.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: QuickSwap is a next-generation layer-2 DEX and AMM on Polygon. It is powered by its native QUICK token.

@@ -1,0 +1,9 @@
+id: "132f8f82-a22f-47ec-a6ad-536835fbb0ac"
+companyName: "Glide Finance"
+appName: "Glide Finance"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://glidefinance.io/"
+fiatOnRamp: false
+categories:
+  - defi
+description: The first native farm and exchange on Elastos. Glide allows you to swap tokens with minimal fees and arbitrage against other exchanges.

@@ -1,0 +1,10 @@
+id: "db2948cf-57b0-4d26-a3a9-99d45f1dd1bf"
+companyName: "Dapper Labs"
+appName: "NBA Top Shot"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nbatopshot.com/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - nft_marketplaces
+description: Dapper Labs, the company behind NBA Top Shot, uses blockchain technology to bring NFTs and new forms of digital engagement to fans around the world.

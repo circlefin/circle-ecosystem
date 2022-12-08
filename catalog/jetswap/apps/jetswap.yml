@@ -1,0 +1,11 @@
+id: "3bf129b8-bf9a-4479-8e51-77e12c74cdff"
+companyName: "Jetswap"
+appName: "Jetswap"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://jetswap.finance/farms"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+  - investing_yield
+description: 'JetSwap is a leading DEX and AMM on the Binance Smart Chain. It offers swapping, liquidity, yield farming, and a lottery for its native token, WINGS. '

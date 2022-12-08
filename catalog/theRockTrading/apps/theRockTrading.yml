@@ -1,0 +1,10 @@
+id: "efba522e-0ee1-48c7-a913-14ebd81f7f4d"
+companyName: "The Rock Trading"
+appName: "The Rock Trading"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.therocktrading.com/en/"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+description: The Rock Trading platform allows you to trade Bitcoin, Litecoin, Ether, Peercoin, Zcash, XRP. Its trading fees start as low as 0.02%.

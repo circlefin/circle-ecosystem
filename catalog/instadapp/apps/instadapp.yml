@@ -1,0 +1,9 @@
+id: "cfe4d1a8-d49d-45ea-ba11-44efa7bcc545"
+companyName: "InstaDapp"
+appName: "InstaDapp"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://instadapp.io/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Instadapp is a DeFi middleware for seamlessly managing multiple DeFi applications to maximize returns in various protocols in a fraction of the time.

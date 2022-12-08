@@ -1,0 +1,9 @@
+id: "1547133b-622e-4ffe-9c1b-73b997b5e166"
+companyName: "Hop Protocol"
+appName: "Hop Protocol"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://hop.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Hop Protocol is a scalable rollup-to-rollup general token bridge. Its allows you to send your tokens across Etherum scaling solutions.

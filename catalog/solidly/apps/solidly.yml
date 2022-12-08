@@ -1,0 +1,10 @@
+id: "90ccf6fd-9b3c-4f86-8cfa-b0de9696f5e7"
+companyName: "Solidly"
+appName: "Solidly"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://solidly.exchange/"
+fiatOnRamp: false
+categories:
+  - defi
+  - trading_exchanges
+description: Solidly allows low cost, near 0 slippage trades on uncorrelated or tightly correlated assets built on Fantom. It incentivizes fees over liquidity.

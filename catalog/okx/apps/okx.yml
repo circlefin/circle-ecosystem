@@ -1,0 +1,9 @@
+id: "dced2d3b-9d5b-4d8a-834a-7642d20a0cb7"
+companyName: "OKX"
+appName: "OKX"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.okx.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: OKX, formerly known as OKEx, is a crypto and derivatives exchange that enables trading of various instruments, such as spot and derivative.

@@ -1,0 +1,9 @@
+id: "1073c2c6-da94-4b5f-971d-14e905eed4f8"
+companyName: "Blockchain.com"
+appName: "Blockchain.com Wallet"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.blockchain.com/wallet"
+fiatOnRamp: true
+categories:
+  - wallets
+description: Blockchain.com Wallet is one of the world's most popular crypto wallets, with over 83 million wallets created to buy, sell, and earn crypto. 

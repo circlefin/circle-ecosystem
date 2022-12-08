@@ -1,0 +1,9 @@
+id: "35720b7c-be0e-4c47-a051-f4f85dfed4e1"
+companyName: "Ava Labs"
+appName: "Avalanche Bridge"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://bridge.avax.network/"
+fiatOnRamp: false
+categories:
+  - defi
+description: Ava Labs makes it easy to launch finance applications using blockchain technology – with highly scalable networks, customizable blockchains and more.

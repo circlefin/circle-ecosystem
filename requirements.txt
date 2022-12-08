@@ -1,0 +1,4 @@
+jsonschema
+pillow
+pyyaml
+svgpathtools

@@ -1,0 +1,9 @@
+id: "68dc423f-fcd8-4359-b430-d6de66b2dcc3"
+companyName: "Senit"
+appName: "Senit"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.senit.com/"
+fiatOnRamp: true
+categories:
+  - defi
+description: Senit is a powerful platform that allows users to buy, sell and trade crypto. It leverages blockchain and the cloud to ensure compliance and security.

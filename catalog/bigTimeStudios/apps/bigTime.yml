@@ -1,0 +1,10 @@
+id: "12e31f46-a85f-4bab-a67a-3f50f4660e03"
+companyName: "Big Time Studios"
+appName: "Big Time"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://nft.bigtime.gg/"
+fiatOnRamp: false
+categories:
+  - gaming
+  - nft_marketplaces
+description: Big Time is a blockchain game that is built on a player-owned economy that allows players to produce, collect, trade, or lend scarce in-game items. 

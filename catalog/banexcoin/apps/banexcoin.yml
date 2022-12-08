@@ -1,0 +1,9 @@
+id: "b2003b3d-4270-4d6c-92f3-dd924cf85ed9"
+companyName: "Banexcoin"
+appName: "Banexcoin"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.banexcoin.com/"
+fiatOnRamp: true
+categories:
+  - trading_exchanges
+description: Banexcoin is a digital platform that offers an easy way to convert crypto to local fiat currency. It is compliant with PCI DSS.
