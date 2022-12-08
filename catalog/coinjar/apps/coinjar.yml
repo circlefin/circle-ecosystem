@@ -1,0 +1,29 @@
+---
+id: "1f3b7cad-2180-4a78-bca9-41bb4a4f41bb"
+companyName: "CoinJar"
+appName: "CoinJar"
+logo: "catalog/coinjar/logos/coinjar.png"
+website: "https://www.coinjar.com/"
+description: "Established in 2013, CoinJar is a simple way to buy, sell and spend Bitcoin, Ethereum, USDC and 50+ other cryptos in UK & Australia."
+dao: false
+fiatOnRamp: true
+audiences:
+  - consumers
+  - businesses
+blockchains:
+  - algorand
+  - ethereum
+  - polkadot
+  - solana
+  - stellar
+categories:
+  - debit_cards
+  - trading_exchanges
+platforms:
+  - web
+  - ios
+  - android
+regions:
+  - emea
+  - apac
+twitter: "https://twitter.com/GetCoinJar"
