@@ -15,7 +15,7 @@ website and in its marketing materials._
 ## Logo Constraints
 Logos should conform to the following parameters:
 
-- Acceptable File Types: .jpg, .png, .svg
+- Acceptable File Types: .jpg, .png
 - Image Size: 200 x 200 pixels
 - Aspect Ratio: 1:1 (square)
 - Max File Size: 5 MB
@@ -95,7 +95,7 @@ properties:
     description: Directory path to the logo file.
     type: string
     maxLength: 150
-    pattern: "catalog\\/.+\\/logos\\/.+\\.(png|jpg|jpeg|svg)$"
+    pattern: "catalog\\/.+\\/logos\\/.+\\.(png|jpg|jpeg)$"
 
   website:
     description: URL of the app's website.

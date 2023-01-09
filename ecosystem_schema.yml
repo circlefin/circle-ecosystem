@@ -36,7 +36,7 @@ properties:
     description: Directory path to the logo file.
     type: string
     maxLength: 150
-    pattern: "catalog\\/.+\\/logos\\/.+\\.(png|jpg|jpeg|svg)$"
+    pattern: "catalog\\/.+\\/logos\\/.+\\.(png|jpg|jpeg)$"
 
   website:
     description: URL of the app's website.
