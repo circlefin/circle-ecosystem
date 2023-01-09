@@ -1,4 +1,3 @@
 jsonschema
 pillow
 pyyaml
-svgpathtools
