@@ -75,6 +75,7 @@ properties:
       type: string
       enum:
         - algorand
+        - arbitrum
         - avalanche
         - cosmos
         - ethereum
@@ -83,6 +84,7 @@ properties:
         - harmony
         - hedera
         - near
+        - optimism
         - polkadot
         - polygon
         - solana

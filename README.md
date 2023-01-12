@@ -134,14 +134,13 @@ properties:
       type: string
       enum:
         - algorand
+        - arbitrum
         - avalanche
-        - cosmos
         - ethereum
-        - fantom
         - flow
-        - harmony
         - hedera
         - near
+        - optimism
         - polkadot
         - polygon
         - solana
@@ -237,14 +236,13 @@ audiences:
   - consumers
 blockchains:
   - algorand
+  - arbitrum
   - avalanche
-  - cosmos
   - ethereum
-  - fantom
   - flow
-  - harmony
   - hedera
   - near
+  - optimism
   - polkadot
   - polygon
   - solana
