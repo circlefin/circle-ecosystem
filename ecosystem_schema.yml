@@ -77,8 +77,11 @@ properties:
         - algorand
         - arbitrum
         - avalanche
+        - cosmos
         - ethereum
+        - fantom
         - flow
+        - harmony
         - hedera
         - near
         - optimism
