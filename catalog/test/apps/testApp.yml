@@ -1,0 +1,20 @@
+---
+id: "afb8a612-2ac8-46f9-9d1f-a8d252112f91"
+companyName: "Test"
+appName: "Test app"
+logo: "catalog/test/logos/Xdefi.png"
+website: "https://www.circle.com"
+description: "Hello App"
+dao: true
+fiatOnRamp: true
+audiences:
+- "consumers"
+blockchains:
+- "arbitrum"
+categories:
+- "borrowing_lending"
+platforms:
+- "ios"
+regions:
+- "na"
+twitter: "https://twitter.com/circle"
