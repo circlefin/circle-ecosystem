@@ -1,0 +1,17 @@
+---
+id: "1c877981-3bba-4171-a214-4fd8b11d081a"
+companyName: "Test"
+appName: "Test"
+logo: "catalog/test/logos/circle.png"
+website: "https://www.circle.com/en/"
+description: "Test"
+audiences:
+- "consumers"
+blockchains:
+- "algorand"
+categories:
+- "banking"
+platforms:
+- "web"
+regions:
+- "na"
