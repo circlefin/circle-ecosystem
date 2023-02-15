@@ -1,0 +1,12 @@
+---
+id: "55aaa513-58f5-4d3f-888c-e165db862075"
+companyName: "Test"
+appName: "Test"
+logo: "catalog/test/logos/circle.png"
+website: "https://ecosystem.circle.com"
+description: "Test"
+dao: false
+audiences:
+- "consumers"
+categories:
+- "banking"
