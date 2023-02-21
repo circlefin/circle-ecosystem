@@ -1,0 +1,18 @@
+---
+id: "530c9337-b2cc-424a-b184-47a1e60c129d"
+companyName: "test"
+appName: "test"
+logo: "catalog/test/logos/suberra_blue_logo_bg_light_200x200.png"
+website: "https://test.com"
+description: "test"
+dao: true
+audiences:
+- "consumers"
+blockchains:
+- "algorand"
+categories:
+- "banking"
+platforms:
+- "web"
+regions:
+- "na"
