@@ -1,0 +1,11 @@
+id: "628e46fd-1790-413b-95e0-f8b835874708"
+companyName: "Binance US"
+appName: "Binance US"
+logo: "catalog/circle/logos/placeHolder.png"
+website: "https://www.binance.us/en/home"
+fiatOnRamp: true
+categories:
+  - cefi
+  - trading_exchanges
+  - investing_yield
+description: Binance.US is a marketplace built on premier technology for access to digital assets. Its vision is to ease America’s transition to a digital era.
