@@ -1,0 +1,16 @@
+---
+id: "decdc505-0525-4a84-8b20-9a59ea638cd3"
+companyName: "Suberra"
+appName: "Suberra"
+logo: "catalog/suberra/logos/Suberra_blue_logo_bg_light_200x200.png"
+website: "https://suberra.com"
+description: "Suberra helps businesses accept crypto payments for anything; from online\
+  \ payments to recurring payments\r\nsuch as subscriptions."
+audiences:
+- "businesses"
+blockchains:
+- "arbitrum"
+- "avalanche"
+- "polygon"
+categories:
+- "ecommerce"
