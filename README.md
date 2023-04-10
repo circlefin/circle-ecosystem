@@ -153,6 +153,7 @@ properties:
     items:
       type: string
       enum:
+        - accounting
         - banking
         - borrowing_lending
         - cefi
