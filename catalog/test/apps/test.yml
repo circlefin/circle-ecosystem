@@ -1,0 +1,10 @@
+---
+id: "5ebda650-e2b2-48d8-a2b0-aa700ac06946"
+companyName: "Test"
+appName: "Test"
+logo: "catalog/test/logos/picture.jpeg"
+website: "https://ecosystem.circle.com"
+description: "test"
+fiatOnRamp: true
+categories:
+- "accounting"
