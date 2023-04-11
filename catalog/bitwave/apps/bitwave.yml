@@ -1,0 +1,27 @@
+---
+id: "c08ad3c0-201c-460f-8614-8a9eaff52482"
+companyName: "Bitwave"
+appName: "Bitwave"
+logo: "catalog/bitwave/logos/picture.jpeg"
+website: "https://www.bitwave.io"
+description: "Bitwave is a leading enterprise accounting platform helping finance\
+  \ and accounting professionals mitigate the complexities of digital asset transactions\
+  \ with a secure, scalable, all-in-one solution."
+fiatOnRamp: true
+audiences:
+- "businesses"
+blockchains:
+- "avalanche"
+- "ethereum"
+- "flow"
+- "near"
+- "optimism"
+- "polygon"
+- "solana"
+categories:
+- "accounting"
+platforms:
+- "web"
+regions:
+- "na"
+twitter: "https://twitter.com/bitwaveplatform"
