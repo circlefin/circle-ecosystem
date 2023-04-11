@@ -1,0 +1,15 @@
+---
+id: "7d1b1b23-16a3-4633-9867-5b563a03cfdb"
+companyName: "test"
+appName: "test"
+logo: "catalog/test/logos/circle.png"
+website: "https://ecosystem.circle.com"
+description: "test"
+audiences:
+- "consumers"
+blockchains:
+- "algorand"
+categories:
+- "accounting"
+platforms:
+- "web"
