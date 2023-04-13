@@ -1,0 +1,10 @@
+---
+id: "3573454a-186f-4afc-bd19-6ded6f859bf9"
+companyName: "test"
+appName: "test"
+logo: "catalog/test/logos/circle.png"
+website: "https://test.com"
+description: "test"
+fiatOnRamp: false
+categories:
+- "banking"
