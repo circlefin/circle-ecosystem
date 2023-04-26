@@ -1,0 +1,21 @@
+---
+id: "4ff1931f-d374-44f5-b99e-1677cb5440b4"
+companyName: "Integral"
+appName: "Integral"
+logo: "catalog/integral/logos/image-200x200.jpg"
+website: "https://integral.xyz/"
+description: "Integral is the web3 CFO's most powerful tool. Its crypto accounting\
+  \ platform offers: revenue recognition, NFT collection management, cap gain/loss\
+  \ calculations, audit compliant reports and more."
+audiences:
+- "businesses"
+blockchains:
+- "ethereum"
+- "polygon"
+categories:
+- "accounting"
+platforms:
+- "web"
+regions:
+- "na"
+twitter: "https://twitter.com/integral_xyz_"
