@@ -1,0 +1,29 @@
+---
+id: "6afe867e-02e6-49be-9149-2403d87116ba"
+companyName: "B2BinPay"
+appName: "B2BinPay"
+logo: "catalog/b2binpay/logos/B2BinPay Logo.png"
+website: "https://b2binpay.com/"
+description: "B2BinPay is a cryptocurrency payment provider offering solutions for\
+  \ Merchant and Enterprise Clients. B2BinPay allows you to send, receive, store,\
+  \ exchange and accept crypto payments online."
+fiatOnRamp: true
+audiences:
+- "businesses"
+blockchains:
+- "tron"
+- "stellar"
+- "solana"
+- "ethereum"
+categories:
+- "remittances"
+- "wallets"
+platforms:
+- "web"
+- "ios"
+regions:
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/B2BinPay"
+telegram: "https://t.me/b2binpay"
