@@ -1,0 +1,26 @@
+---
+id: "77492238-38e6-4538-bbe2-bdc4f686d87a"
+companyName: "Cryptomkt"
+appName: "Cryptomkt"
+logo: "catalog/cryptomkt/logos/logo redes 200x200.png"
+website: "https://www.cryptomkt.com"
+description: "CryptoMarket aims to promote financial inclusion through Blockchain\
+  \ technology and we seek to be the largest digital bank in the Latin American region."
+fiatOnRamp: true
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "tron"
+- "solana"
+- "ethereum"
+- "polygon"
+categories:
+- "wallets"
+- "trading_exchanges"
+platforms:
+- "web"
+regions:
+- "latam"
+twitter: "https://twitter.com/CryptoMKT"
+telegram: "https://t.me/CryptoMKT_Latam"
