@@ -1,0 +1,23 @@
+---
+id: "b4a66fde-75d1-4aaa-a8b4-163842de6712"
+companyName: "Tres Finance"
+appName: "Tres.Finance"
+logo: "catalog/tresFinance/logos/download-compresskaru.com.png"
+website: "https://www.tres.finance/"
+description: "Tres Finance is the first Web3 financial data lake \r\ndesigned to enable\
+  \ companies in the crypto \r\necosystem to leverage data for accounting, audit,\
+  \ \r\nand reporting purposes."
+fiatOnRamp: true
+audiences:
+- "businesses"
+blockchains:
+- "ethereum"
+- "avalanche"
+- "solana"
+categories:
+- "accounting"
+platforms:
+- "web"
+regions:
+- "na"
+twitter: "https://twitter.com/tresdotfinance"
