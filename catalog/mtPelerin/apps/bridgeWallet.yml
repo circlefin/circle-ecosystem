@@ -1,0 +1,22 @@
+---
+id: "17d4f9da-492a-435f-a472-eeafd4af899d"
+companyName: "Mt Pelerin"
+appName: "Bridge Wallet"
+logo: "catalog/mtPelerin/logos/2.png"
+website: "https://www.mtpelerin.com/bridge-wallet"
+description: "The Swiss gateway to the crypto world. Get a wallet in minutes, buy\
+  \ and sell cryptocurrencies easily, discover security tokens and explore the Web3\
+  \ world."
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "ethereum"
+categories:
+- "wallets"
+platforms:
+- "ios"
+- "web"
+- "android"
+regions:
+- "emea"
