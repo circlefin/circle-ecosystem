@@ -1,0 +1,23 @@
+---
+id: "47b53084-ee81-401f-9d07-58fa0ef28844"
+companyName: "Mt Pelerin"
+appName: "Mt Pelerin"
+logo: "catalog/mtPelerin/logos/2.png"
+website: "https://www.mtpelerin.com/buy-usdc"
+description: "The Swiss gateway to the crypto world. Get a wallet in minutes, buy\
+  \ and sell cryptocurrencies easily, discover security tokens and explore the Web3\
+  \ world."
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "ethereum"
+categories:
+- "cefi"
+- "trading_exchanges"
+platforms:
+- "web"
+- "ios"
+- "android"
+regions:
+- "emea"
