@@ -1,0 +1,30 @@
+---
+id: "63656fa2-ec8d-45f3-b8ee-e321010b9a28"
+companyName: "Droidex"
+appName: "Droidex"
+logo: "catalog/droidex/logos/Twitter.png"
+website: "https://droidex.io/"
+description: "Droidex is a DEX aggregator that provides the best rates of all decentralized\
+  \ exchanges. Simple and clear interface will make it easy to understand and start\
+  \ conducting transactions."
+dao: false
+fiatOnRamp: false
+audiences:
+- "consumers"
+blockchains:
+- "avalanche"
+- "ethereum"
+- "polygon"
+categories:
+- "defi"
+- "trading_exchanges"
+- "investing_yield"
+platforms:
+- "web"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/Droidex_io"
+telegram: "https://t.me/droidex_io"
