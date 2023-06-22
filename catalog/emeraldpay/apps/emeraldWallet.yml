@@ -1,0 +1,23 @@
+---
+id: "7dc2cdad-2885-4b69-a7e8-75f937feb5ef"
+companyName: "EmeraldPay"
+appName: "Emerald Wallet"
+logo: "catalog/emeraldpay/logos/emerald_color 200px.png"
+website: "https://emerald.cash"
+description: "Emerald is a non-custodial desktop wallet for Bitcoin and Ethereum,\
+  \ with an extra focus on Stablecoins and USDC is a first class citizen here"
+audiences:
+- "consumers"
+blockchains:
+- "arbitrum"
+- "ethereum"
+categories:
+- "wallets"
+regions:
+- "na"
+- "emea"
+- "latam"
+- "apac"
+twitter: "https://twitter.com/getemerald/"
+telegram: "https://t.me/GetEmerald"
+discord: "https://discord.com/invite/MpPmemBvmR"
