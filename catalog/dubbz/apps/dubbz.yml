@@ -1,0 +1,32 @@
+---
+id: "6ea7f122-ebf0-4693-af71-0cc6b2f60cda"
+companyName: "Dubbz"
+appName: "Dubbz"
+logo: "catalog/dubbz/logos/dubbz.jpg"
+website: "https://dubbz.com/"
+description: "Dubbz is a blockchain-based infrastructure provider and esports platform,\
+  \ facilitating skills-based wagering and competitive play in the next generation\
+  \ of games."
+fiatOnRamp: true
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "ethereum"
+- "polygon"
+categories:
+- "entertainment"
+- "gaming"
+- "nft_marketplaces"
+- "wallets"
+platforms:
+- "web"
+- "ios"
+- "android"
+regions:
+- "na"
+- "latam"
+- "emea"
+twitter: "https://twitter.com/playdubbz"
+telegram: "https://t.me/dubbzgaming"
+discord: "https://discord.com/invite/mecv6j9SUz"
