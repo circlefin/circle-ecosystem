@@ -1,0 +1,29 @@
+---
+id: "2aff2d66-de72-4d5c-800a-4cce80cc5be0"
+companyName: "Dropp"
+appName: "Dropp"
+logo: "catalog/dropp/logos/Dropp Test.png"
+website: "https://dropp.cc"
+description: "Dropp is micro-payment platform for processing small-value transactions.\
+  \ Dropp is the most cost effective alternative to cash and credit cards and accepts\
+  \ USDDC to make payments and receive credits."
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "ethereum"
+- "hedera"
+categories:
+- "ecommerce"
+- "nft_marketplaces"
+- "wallets"
+platforms:
+- "web"
+- "ios"
+- "android"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/droppcc"
