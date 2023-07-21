@@ -4,9 +4,9 @@ companyName: "Dropp"
 appName: "Dropp"
 logo: "catalog/dropp/logos/Dropp Test.png"
 website: "https://dropp.cc"
-description: "Dropp is micro-payment platform for processing small-value transactions.\
-  \ Dropp is the most cost effective alternative to cash and credit cards and accepts\
-  \ USDDC to make payments and receive credits."
+description: "Dropp is a multi-currency micropayment platform that addresses the need\
+  \ for accepting small-value payments efficiently, an alternative to credit cards\
+  \ accepting payments in USDC-ETH, USDC-HBAR & USD."
 audiences:
 - "consumers"
 - "businesses"
