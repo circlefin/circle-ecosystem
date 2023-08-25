@@ -163,6 +163,7 @@ properties:
         - ecommerce
         - entertainment
         - gaming
+        - infrastructure
         - investing_yield
         - nft_marketplaces
         - payroll
