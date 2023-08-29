@@ -1,0 +1,32 @@
+---
+id: "d3f4063a-e15f-4f7a-b346-a8a11f971ec7"
+companyName: "Rainbow Studio"
+appName: "Rainbow"
+logo: "catalog/rainbowStudio/logos/Logo.png"
+website: "https://rainbow.me/"
+description: "Rainbow is a fun, simple, and secure Ethereum wallet. USDC is natively\
+  \ supported and can be easily purchased, swapped, or bridged right in Rainbow."
+fiatOnRamp: true
+audiences:
+- "consumers"
+blockchains:
+- "polygon"
+- "optimism"
+- "arbitrum"
+- "ethereum"
+categories:
+- "defi"
+- "wallets"
+- "trading_exchanges"
+- "nft_marketplaces"
+- "investing_yield"
+platforms:
+- "web"
+- "ios"
+- "android"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/rainbowdotme"
