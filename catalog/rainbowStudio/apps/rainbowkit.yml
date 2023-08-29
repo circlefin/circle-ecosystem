@@ -1,0 +1,27 @@
+---
+id: "5ffed470-a1fe-4621-bf0f-9df364db39b1"
+companyName: "Rainbow Studio"
+appName: "RainbowKit"
+logo: "catalog/rainbowStudio/logos/Logo.png"
+website: "https://rainbowkit.com/"
+description: "RainbowKit provides a fast, easy and highly customizable way for developers\
+  \ to add a great wallet experience to their application."
+audiences:
+- "businesses"
+- "consumers"
+blockchains:
+- "polygon"
+- "optimism"
+- "ethereum"
+- "avalanche"
+- "arbitrum"
+categories:
+- "infrastructure"
+platforms:
+- "web"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/rainbowdotme"
