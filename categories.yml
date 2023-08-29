@@ -26,6 +26,9 @@ categories:
   - categoryID: 10f381a8-9899-4034-8800-c8a7708700f4
     categoryName: GAMING
     categoryParamName: gaming
+  - categoryID: b45ecd96-c85c-411a-a67e-e6153c3b7756
+    categoryName: INFRASTRUCTURE
+    categoryParamName: infrastructure
   - categoryID: 07fe2f77-7fc1-4359-86dd-839effd89bbd
     categoryName: INVESTING/YIELD
     categoryParamName: investing_yield
