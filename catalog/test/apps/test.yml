@@ -1,0 +1,15 @@
+---
+id: "57b22514-b1f8-4b1e-9fec-213bc96a8ac2"
+companyName: "Test"
+appName: "Test"
+logo: "catalog/test/logos/circle.png"
+website: "https://test.com"
+description: "Test"
+audiences:
+- "consumers"
+blockchains:
+- "arbitrum"
+categories:
+- "accounting"
+platforms:
+- "web"
