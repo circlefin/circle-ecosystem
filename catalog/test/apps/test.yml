@@ -1,0 +1,11 @@
+---
+id: "5a78139e-8ebc-4256-9bd0-2c2a73dcf9f8"
+companyName: "test"
+appName: "test"
+logo: "catalog/test/logos/circle.png"
+website: "https://ecosystem.circle.com"
+description: "test"
+audiences:
+- "businesses"
+categories:
+- "accounting"
