@@ -1,0 +1,31 @@
+---
+id: "60b1e81e-248c-4864-a5cf-d1f7b6c23a59"
+companyName: "alfred"
+appName: "alfred"
+logo: "catalog/alfred/logos/LOGO.png"
+website: "https://alfredpay.io"
+description: "B2B USDC To FIAT Payments Infrastructure for LATAM"
+fiatOnRamp: true
+audiences:
+- "businesses"
+blockchains:
+- "algorand"
+- "arbitrum"
+- "avalanche"
+- "ethereum"
+- "flow"
+- "hedera"
+- "near"
+- "optimism"
+- "polkadot"
+- "polygon"
+- "solana"
+- "stellar"
+- "tron"
+categories:
+- "infrastructure"
+platforms:
+- "web"
+regions:
+- "latam"
+twitter: "https://twitter.com/alfredlatam"
