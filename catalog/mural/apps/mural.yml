@@ -1,0 +1,29 @@
+---
+id: "98d768d5-26fb-4123-aa5c-720a344b0ebc"
+companyName: "Mural"
+appName: "Mural"
+logo: "catalog/mural/logos/Mural Logo.png"
+website: "https://www.muralpay.com/"
+description: "Mural is an instant global payments platform, empowering companies to\
+  \ manage payments and invoices for contractors and vendors worldwide."
+fiatOnRamp: true
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "arbitrum"
+- "avalanche"
+- "ethereum"
+- "optimism"
+- "polygon"
+- "solana"
+categories:
+- "banking"
+- "payroll"
+- "remittances"
+- "infrastructure"
+platforms:
+- "web"
+regions:
+- "na"
+twitter: "https://twitter.com/mural_pay/"
