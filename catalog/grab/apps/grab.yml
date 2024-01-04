@@ -1,0 +1,15 @@
+---
+id: "8cb4fa17-02b1-4f48-bb3f-3f9f327bc3f4"
+companyName: "Grab"
+appName: "Grab"
+logo: "catalog/grab/logos/Grab.png"
+website: "https://www.grab.com/"
+description: "Grab is Southeast Asia's leading superapp. It provides everyday services\
+  \ like Deliveries, Mobility, Financial Services, and More."
+audiences:
+- "consumers"
+- "businesses"
+categories:
+- "ecommerce"
+regions:
+- "apac"
