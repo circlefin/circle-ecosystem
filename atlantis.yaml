@@ -1,0 +1,8 @@
+version: 3
+automerge: true
+parallel_plan: true
+projects:
+  - name: ops-prod
+    dir: "deploy/tf/accounts/ops"
+    workspace: default
+    terraform_version: 1.3.9
