@@ -1,0 +1,23 @@
+module "terraform-amir-service" {
+  source                               = "git@github.com:circlefin/terraform-amir-service?ref=4.0.2"
+  service                              = local.service
+  team                                 = local.owner
+  repository_url                       = local.repository_url
+  confluence_doc_url                   = ""
+  runbook_url                          = ""
+  support_slack_url                    = "https://circle.enterprise.slack.com/archives/C04G6TMLB0V"
+  monitors_kubernetes_enabled          = false
+  datadog_slack_integration_enable     = false
+  opensearch_enabled                   = false
+  pagerduty_enabled                    = false
+  monitors_platform_common_enabled     = false
+  monitors_platform_common_go_enabled  = false
+  monitors_dynamodb_enabled            = false
+  monitors_sqs_enabled                 = false
+  monitors_sqs_dlq_enabled             = false
+  monitors_slack_warn_channel_on_alert = false
+  biz_domain                           = local.business_domain
+  owner_email                          = local.owner_email
+  sdlc                                 = local.sdlc
+  tier                                 = local.tier
+}
