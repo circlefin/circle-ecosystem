@@ -1,0 +1,30 @@
+---
+id: "b10df1b8-dd57-4d30-b794-4519ecf87c07"
+companyName: "EmmetFinance"
+appName: "Emmet Finance Defi Hub"
+logo: "catalog/emmetfinance/logos/emmetFinance200x200.png"
+website: "https://emmet.finance"
+description: "All-in-One Decentralized Cross-Chain DeFi Hub"
+audiences:
+- "consumers"
+- "businesses"
+blockchains:
+- "arbitrum"
+- "avalanche"
+- "ethereum"
+- "optimism"
+- "polygon"
+categories:
+- "borrowing_lending"
+- "defi"
+- "infrastructure"
+- "investing_yield"
+- "trading_exchanges"
+regions:
+- "na"
+- "emea"
+- "latam"
+- "apac"
+twitter: "https://twitter.com/Emmet_Finance"
+telegram: "https://t.me/Emmet_Finance"
+discord: "https://discord.com/invite/yuXxDctC4W"
