@@ -1,0 +1,29 @@
+---
+id: "0d8baead-44c6-4efa-aea2-53b4f78d4ddf"
+companyName: "Web3 Enabler, Inc"
+appName: "Web3 Enabler for Salesforce"
+logo: "catalog/web3Enabler,Inc/logos/Web3 Enabler Logo - 200.png"
+website: "https://web3enabler.com"
+description: "Accept USDC, EURC, or other Stablecoins natively in Salesforce CRM.\
+  \ Create payment links and QR codes for Invoices, Emails, and Text messages. Generate\
+  \ standard accounting reports."
+fiatOnRamp: true
+audiences:
+- "businesses"
+blockchains:
+- "arbitrum"
+- "ethereum"
+- "optimism"
+- "polygon"
+categories:
+- "accounting"
+- "ecommerce"
+- "remittances"
+platforms:
+- "web"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/web3enabler"
