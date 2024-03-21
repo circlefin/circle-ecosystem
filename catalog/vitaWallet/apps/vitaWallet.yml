@@ -1,0 +1,25 @@
+---
+id: "c89aea8f-4af4-4c43-a3e6-2ddb30f702fc"
+companyName: "Vita Wallet"
+appName: "Vita Wallet"
+logo: "catalog/vitaWallet/logos/download-compresskaru.com (1).png"
+website: "https://vitawallet.io/"
+description: "Fast USDC transfers to +50 countries. Fast, safe, and at the lowest\
+  \ cost."
+fiatOnRamp: true
+audiences:
+- "consumers"
+blockchains:
+- "ethereum"
+- "polygon"
+- "solana"
+- "arbitrum"
+categories:
+- "wallets"
+platforms:
+- "web"
+- "ios"
+- "android"
+regions:
+- "latam"
+twitter: "https://twitter.com/vitawallet"
