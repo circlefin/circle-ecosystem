@@ -1,0 +1,30 @@
+---
+id: "b513201c-800a-45ed-bfd0-81decb4c677f"
+companyName: "0x"
+appName: "0x APIs"
+logo: "catalog/0x/logos/0x Avatar - Rounded 1.png"
+website: "https://0x.org"
+description: "Hi team! Thanks for including us - can you update the name (we rebranded)\
+  \ 0x Protocol/0x Labs -> 0x. 0x provides trading APIs that enable developers to\
+  \ build powerful product on crypto rails."
+audiences:
+- "businesses"
+blockchains:
+- "arbitrum"
+- "avalanche"
+- "ethereum"
+- "optimism"
+- "polygon"
+categories:
+- "defi"
+- "infrastructure"
+platforms:
+- "android"
+- "ios"
+- "web"
+regions:
+- "na"
+- "latam"
+- "emea"
+- "apac"
+twitter: "https://twitter.com/0xProject/"
