@@ -1,0 +1,27 @@
+id: "42dc1939-fd8a-4831-ab1e-3179d8cf20fc"
+companyName: "0x"
+appName: "0x"
+logo: "catalog/0x/logos/0x.png"
+website: "https://0x.org"
+description: "0x provides trading APIs that enable developers to build powerful products on crypto rails."
+audiences:
+  - "businesses"
+blockchains:
+  - "arbitrum"
+  - "avalanche"
+  - "ethereum"
+  - "optimism"
+  - "polygon"
+categories:
+  - "defi"
+  - "infrastructure"
+platforms:
+  - "android"
+  - "ios"
+  - "web"
+regions:
+  - "na"
+  - "latam"
+  - "emea"
+  - "apac"
+twitter: "https://twitter.com/0xProject/"
